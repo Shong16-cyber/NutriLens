@@ -1,0 +1,21 @@
+﻿# Large databases
+data/db/off_products.db
+data/db/usda_sr.db
+
+# Python cache
+__pycache__/
+*.pyc
+.paddleocr/
+
+# Model files (too large for GitHub)
+models/line_classifier.pkl
+
+# User data
+users/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp

@@ -1,0 +1,1839 @@
+image,line_num,line_pos,text,auto_label,corrected_label
+11.jpg,0,0.0,WHOLE,item,header
+11.jpg,1,0.048,FOODS,item,header
+11.jpg,2,0.095,CMKARRKSNENT,item,noise
+11.jpg,3,0.143,SHARON RD.,item,header
+11.jpg,4,0.19,PL TORTILLA'S 6.99,item,item
+11.jpg,5,0.238,CAGE FREE ALL WHIT 3.69,item,item
+11.jpg,6,0.286,BLACK BEANS 1.29,item,item
+11.jpg,7,0.333,Frozen Mangoes 16o 2.99,item,item
+11.jpg,8,0.381,Whole Strawberries 2.99,item,item
+11.jpg,9,0.429,OG LF COTTAGE CHEE 3.49,item,item
+11.jpg,10,0.476,MAHI MAHI FILLETS 8.99,item,item
+11.jpg,11,0.524,*VC $2 off (1) WC Fill 2.00-,discount,noise
+11.jpg,12,0.571,California Harvest 2.69,item,item
+11.jpg,13,0.619,1.08 1b 1.99 /1b TARE .01,weight,weight
+11.jpg,14,0.667,*WT PLUMS BLACK Cv 2.15,item,item
+11.jpg,15,0.714,ITEM 4040,noise,noise
+11.jpg,16,0.762,NHP SLICED OVEN RO 3.99,item,item
+11.jpg,17,0.81,NHP SLICED HICKORY 3.99,item,item
+11.jpg,18,0.857,1.64 1b @ 1.99 /1b TARE .01,weight,weight
+11.jpg,19,0.905,WT GALA APPLES OG 3.26,item,item
+11.jpg,20,0.952,ITEM 94135,noise,noise
+11.jpg,21,1.0,**** TAX .93 BAL 45.44,metadata,noise
+12.jpg,0,0.0,WAL* MART,item,header
+12.jpg,1,0.034,Save money. Live better.,item,header
+12.jpg,2,0.069,WE SELL FOR LESS,item,header
+12.jpg,3,0.103,ALWAYS,item,header
+12.jpg,4,0.138,MANAGER DAPHNE SESSION,item,header
+12.jpg,5,0.172,636 536 4601,noise,header
+12.jpg,6,0.207,"CHESTERFIELD,MO 63005",item,header
+12.jpg,7,0.241,ST# 2600 0P# 00001855 TE# 17 TR# 03359,item,header
+12.jpg,8,0.276,SW FIGURES 065356920144 6.63 X,item,item
+12.jpg,9,0.31,TOOTHBRUSH 003500055500 0.96,item,item
+12.jpg,10,0.345,SUBTOTAL 7.59,metadata,noise
+12.jpg,11,0.379,WOMEN SLIPPE 009725614790 9.86,item,item
+12.jpg,12,0.414,SUBTOTAL 17.45,metadata,noise
+12.jpg,13,0.448,TAX 3.100 % 0.54,metadata,noise
+12.jpg,14,0.483,-M,noise,noise
+12.jpg,15,0.517,TAX 4.350 % 0.76,metadata,noise
+12.jpg,16,0.552,TOTAL 18.75,metadata,noise
+12.jpg,17,0.586,MCARD TEND 18.75,item,noise
+12.jpg,18,0.621,ACCOUNT #3546,item,noise
+12.jpg,19,0.655,APPROVAL #007190,item,noise
+12.jpg,20,0.69,TRANS ID,metadata,noise
+12.jpg,21,0.724,VALIDATION,item,noise
+12.jpg,22,0.759,PAYMENT SERVICE,item,noise
+12.jpg,23,0.793,CHANGE DUE 0.00,item,noise
+12.jpg,24,0.828,# ITEMS SOLD 3,item,noise
+12.jpg,25,0.862,TC# 9489 7094 6487 3073 3651,item,noise
+12.jpg,26,0.897,Wal-Mart exclusive Eagles CD,item,noise
+12.jpg,27,0.931,available October 30th!,item,noise
+12.jpg,28,0.966,10/20/07 13:48:43,noise,date
+12.jpg,29,1.0,***CUSTOMER COPY***,discount,noise
+13.jpg,0,0.0,LD #: A1SWOY8KCW,item,noise
+13.jpg,1,0.056,Walmart,header,header
+13.jpg,2,0.111,Save money. Live better.,item,header
+13.jpg,3,0.167,(843292 0362,noise,noise
+13.jpg,4,0.222,MANAGER MICHAEL LREIGHARD,item,header
+13.jpg,5,0.278,FLORENCE SC 29SOS 2014 S IRBY ST,item,header
+13.jpg,6,0.333,51# 02703 0P# 009049 1E1 19 1R8 07142,item,header
+13.jpg,7,0.389,GHFT CARD 08/458604333 50.000,item,item
+13.jpg,8,0.444,SUBTOIAL TOIA 5000 50.00,item,noise
+13.jpg,9,0.5,CASH CHANGE DUE IIND 10.000 60.00,metadata,noise
+13.jpg,10,0.556,ACC0UN1613968545249/29 SHOP CARD ACTIVATION 50.00,item,noise
+13.jpg,11,0.611,APPR CODI 192986,item,noise
+13.jpg,12,0.667,REF #0083742,item,noise
+13.jpg,13,0.722,Beg Bal 0.00 50.00 Fran Ami End Bal 50.00,metadata,noise
+13.jpg,14,0.778,08/11/17 19:19:31,noise,date
+13.jpg,15,0.833,1CH 9736 5895 9237 2333 1932,item,noise
+13.jpg,16,0.889,Low Prices You Can Trust Eyery Day.,item,noise
+13.jpg,17,0.944,08/11/17 19:22-40,noise,date
+13.jpg,18,1.0,Store receipts on your mone. ay Walmart p,item,noise
+14.jpg,0,0.0,UOY XHAHT,item,noise
+14.jpg,1,0.022,See back of receipt for your chance,item,noise
+14.jpg,2,0.044,to win $1000,item,noise
+14.jpg,3,0.067,woH,noise,noise
+14.jpg,4,0.089,ID : 7LORX4K8PJX,item,noise
+14.jpg,5,0.111,RW00012,item,noise
+14.jpg,6,0.133,bisaflig,item,noise
+14.jpg,7,0.156,ola,noise,noise
+14.jpg,8,0.178,Walmart,item,header
+14.jpg,9,0.2,200,noise,noise
+14.jpg,10,0.222,Save money. Live better.,item,header
+14.jpg,11,0.244,( 937 ) 644 - 2800,noise,noise
+14.jpg,12,0.267,MANAGER CHRISTOPHER WOOD,item,header
+14.jpg,13,0.289,555 COLEMANS CROSSING BLVII,item,header
+14.jpg,14,0.311,MARYSVILLE OH 43040,item,header
+14.jpg,15,0.333,ST# 01595 0P# 007573 TE#_10 TR# 08890,item,header
+14.jpg,16,0.356,3.88,noise,noise
+14.jpg,17,0.378,EQUATE LINER 068113186503,item,item
+14.jpg,18,0.4,VFUS SENG P0M 005100024543 F 7.48,item,item
+14.jpg,19,0.422,DAWN N ORIG 003700011045 5.97,item,item
+14.jpg,20,0.444,50YD PKGTAPE 007535307841 1.12,item,item
+14.jpg,21,0.467,50YD PKGTAPE 007535307841 1.12,item,item
+14.jpg,22,0.489,LINT ROLLER2 005114123488 5.78,item,item
+14.jpg,23,0.511,SUBTOTAL 25.35,metadata,noise
+14.jpg,24,0.533,7.000 % 1.25,item,noise
+14.jpg,25,0.556,TAX,metadata,noise
+14.jpg,26,0.578,TOTAL 26.60,metadata,noise
+14.jpg,27,0.6,DEBIT TEND 26.60,metadata,noise
+14.jpg,28,0.622,CHANGE DUE 0.00,item,noise
+14.jpg,29,0.644,EFT DEBIT PAY FROM PRIMARY,metadata,noise
+14.jpg,30,0.667,26.60 TOTAL PURCHASE,metadata,noise
+14.jpg,31,0.689,ACCOUNT,item,noise
+14.jpg,32,0.711,REF # 712400283994,item,noise
+14.jpg,33,0.733,NETWORK ID. 0069 APPR CODE 8684813,item,noise
+14.jpg,34,0.756,TERMINAL # SC010087,item,noise
+14.jpg,35,0.778,05/04/17 19:54:16,noise,date
+14.jpg,36,0.8,# ITEMS SOLD 6,item,noise
+14.jpg,37,0.822,1061 368,noise,noise
+14.jpg,38,0.844,TC# 7535 0523 2384,item,noise
+14.jpg,39,0.867,05/04/17 19:54:18,noise,date
+14.jpg,40,0.889,Store receipts on your phone. Walmart P,item,noise
+14.jpg,41,0.911,ay.,noise,noise
+14.jpg,42,0.933,otnebiaenlens,item,noise
+14.jpg,43,0.956,reedoofundtig,item,noise
+14.jpg,44,0.978,wawa.yune.www,item,noise
+14.jpg,45,1.0,ert no.abha botion aoxstrasewe,item,noise
+15.jpg,0,0.0,See back of receipt for your chance,item,noise
+15.jpg,1,0.031,to win $1000,item,noise
+15.jpg,2,0.062,ID : 7JYY2JWOK3Y,item,noise
+15.jpg,3,0.094,Walmart,header,header
+15.jpg,4,0.125,Save money. Live better.,item,header
+15.jpg,5,0.156,"( 714 ),799 -0020",noise,noise
+15.jpg,6,0.188,MANAGER YVONNE THOMAS,item,header
+15.jpg,7,0.219,13331 BEACH BLVD,item,header
+15.jpg,8,0.25,WESTMINSTER CA 92683,item,header
+15.jpg,9,0.281,ST 02495 0P# 006969 TE#79 TR# 01526,item,header
+15.jpg,10,0.312,DIABETES 068113131172H 12.58 N,item,item
+15.jpg,11,0.344,SUBTOTAL 12.58,metadata,noise
+15.jpg,12,0.375,TOTAL 12.58,metadata,noise
+15.jpg,13,0.406,VISA TEND 1268,metadata,noise
+15.jpg,14,0.438,Visa Credit *K** *N** *N** 3670 I1,metadata,noise
+15.jpg,15,0.469,APPROVAL #222235,item,noise
+15.jpg,16,0.5,REF620500604401,item,noise
+15.jpg,17,0.531,TRANS IDU-56620513988406,metadata,noise
+15.jpg,18,0.562,VALIDATION- 76LK,item,noise
+15.jpg,19,0.594,PAYMENT SERVICE E,item,noise
+15.jpg,20,0.625,AID A0000000031010,item,noise
+15.jpg,21,0.656,TC 9E0FAC9A809E5D92,item,noise
+15.jpg,22,0.688,TERMINAL # 281767447,item,noise
+15.jpg,23,0.719,NO SIGNATURE REQUIRED,item,noise
+15.jpg,24,0.75,07/22/16 20:53:11,noise,date
+15.jpg,25,0.781,CHANGE DUE 0.00,item,noise
+15.jpg,26,0.812,# ITEMS SOLD 1,item,noise
+15.jpg,27,0.844,TC# 7503 0129 1089 7649 4115,item,noise
+15.jpg,28,0.875,Low Prices You Can Trust. Every Day.,item,noise
+15.jpg,29,0.906,07/22/16 20:53:11,noise,date
+15.jpg,30,0.938,**#CUSTOMER COPY***,discount,noise
+15.jpg,31,0.969,Savings Catcher! Scan with,item,noise
+15.jpg,32,1.0,Walmart aPP,item,noise
+16.jpg,0,0.0,See back of receipt for your chance,item,noise
+16.jpg,1,0.029,to win $1000,item,noise
+16.jpg,2,0.057,ID #: 7L2T9WJM25F,item,noise
+16.jpg,3,0.086,Walmart,header,header
+16.jpg,4,0.114,Save money. Live better.,item,header
+16.jpg,5,0.143,( 701223 -3066,noise,noise
+16.jpg,6,0.171,MANAGER TIM MORRIS,item,header
+16.jpg,7,0.2,2717 ROCK ISLAND PL,item,header
+16.jpg,8,0.229,BISMARCK ND 58504,item,header
+16.jpg,9,0.257,ST# 01534 0P# 009048 TE# 48 TR# 04455,item,header
+16.jpg,10,0.286,6 WING PLATE 020108870398 3.98 P,item,item
+16.jpg,11,0.314,ASST 27 063099656595 4.88 X,item,item
+16.jpg,12,0.343,CUTIE CAR 063099656644 12.88 X,item,item
+16.jpg,13,0.371,SUBTOTAL 21.74,metadata,noise
+16.jpg,14,0.4,TAX 1 6.500 % 1.15,metadata,noise
+16.jpg,15,0.429,TAX 4 7.500 % 0.30,metadata,noise
+16.jpg,16,0.457,TOTAL 23.19,metadata,noise
+16.jpg,17,0.486,DEBIT TEND 23.19,metadata,noise
+16.jpg,18,0.514,CHANGE DUE 0.00,item,noise
+16.jpg,19,0.543,EFT DEBIT PAY FROM PRIMARY,metadata,noise
+16.jpg,20,0.571,23.19 TOTAL PURCHASE,metadata,noise
+16.jpg,21,0.6,US DEBIT xxxx xxxx xxxx 2696 I 0,metadata,noise
+16.jpg,22,0.629,REF # 731700494718,item,noise
+16.jpg,23,0.657,NETWORK ID. 0081 APPR CODE 936886,item,noise
+16.jpg,24,0.686,US DEBIT,metadata,noise
+16.jpg,25,0.714,AID A0000000980840,item,noise
+16.jpg,26,0.743,TC 58B77239DA5B3B44,item,noise
+16.jpg,27,0.771,*NO SIGNATURE REQUIRED,discount,noise
+16.jpg,28,0.8,TERMINAL # SC011090,item,noise
+16.jpg,29,0.829,11/13/17 12:34:04,noise,date
+16.jpg,30,0.857,# ITEMS SOLD 3,item,noise
+16.jpg,31,0.886,TC# 2188 7274 6444 1567 3762,item,noise
+16.jpg,32,0.914,Low Prices You Can Trust. Every Day.,item,noise
+16.jpg,33,0.943,11/13/17 12:34:11,noise,date
+16.jpg,34,0.971,Store receipts on your phone. Walmart P,item,noise
+16.jpg,35,1.0,ay.,noise,noise
+17.jpg,0,0.0,See back of rece.pt for your chance,item,noise
+17.jpg,1,0.024,to win $1000,item,noise
+17.jpg,2,0.048,ID #: 7KZGF1SL2FF,item,noise
+17.jpg,3,0.071,Walmart,header,header
+17.jpg,4,0.095,Save money. Live better.,item,header
+17.jpg,5,0.119,( 970 ) 259 -8755,noise,noise
+17.jpg,6,0.143,MANAGER MIKE NEIDLINGER,item,header
+17.jpg,7,0.167,1155 S CAMINO DEL RIO,item,header
+17.jpg,8,0.19,DURANGO CO 81303,item,header
+17.jpg,9,0.214,ST# 02270 0P# 000144 TE# 02 TR# 03080,item,header
+17.jpg,10,0.238,BBANANAS 000000004011KI,item,item
+17.jpg,11,0.262,1.75 1b 1 1b /0.54,item,weight
+17.jpg,12,0.286,0.95 R,item,noise
+17.jpg,13,0.31,BEVERAGE 003120002133 F,item,item
+17.jpg,14,0.333,2.00 R,item,noise
+17.jpg,15,0.357,OS CRAN POM 003120027015 F,item,item
+17.jpg,16,0.381,2.00 R,item,noise
+17.jpg,17,0.405,STRWBRYCC 076471782200 F,item,item
+17.jpg,18,0.429,0.96 Y,item,noise
+17.jpg,19,0.452,CAMPARI TOM 073447501213 I,item,item
+17.jpg,20,0.476,2.98 R,item,noise
+17.jpg,21,0.5,KFT SINGLES 002100061526 F,item,item
+17.jpg,22,0.524,3.78 Y,item,noise
+17.jpg,23,0.548,44500982114 004450098211 F,item,noise
+17.jpg,24,0.571,3.98 Y,item,noise
+17.jpg,25,0.595,020533960343 F,item,noise
+17.jpg,26,0.619,HARD SALAMI 3.43 Y,item,item
+17.jpg,27,0.643,AVOCADO 000000004046KI,item,item
+17.jpg,28,0.667,4 AT1 FOR 0.44 1.76R,item,qty
+17.jpg,29,0.69,PILLS WHITE 068113113619 F 1.00 Y,item,item
+17.jpg,30,0.714,SH NYLON COL 007417024836 2.97 X,item,item
+17.jpg,31,0.738,HAND CLEANER 004125100005 1.67 X,item,item
+17.jpg,32,0.762,INJECTR CLNR 004980710003 8.87 X,item,item
+17.jpg,33,0.786,SUBTOTAL 36.35,metadata,noise
+17.jpg,34,0.81,TAX 1 7.900 % 1.07,metadata,noise
+17.jpg,35,0.833,TTAX 2 5.000 % 1.14,metadata,noise
+17.jpg,36,0.857,TX 66 2.900 % 0.12,item,noise
+17.jpg,37,0.881,TOTAL 38.68,metadata,noise
+17.jpg,38,0.905,CASH TEND 10.68,metadata,noise
+17.jpg,39,0.929,CHANGE DUE 2.00,item,noise
+17.jpg,40,0.952,# ITEMS SOLD 16,item,noise
+17.jpg,41,0.976,TC# 3041 7466 0669 7952 272,item,noise
+17.jpg,42,1.0,01/15/17 14:26:03,noise,date
+18.jpg,0,0.0,Give us feedback  survey.walmart.com,header,header
+18.jpg,1,0.017,Thank yOU! 1D #: 7OD137157NX5,item,noise
+18.jpg,2,0.033,Walmart,header,header
+18.jpg,3,0.05,863-318-0752 Mgr:MARK,item,header
+18.jpg,4,0.067,7450 CYPRESS GARDENS BLVD,item,header
+18.jpg,5,0.083,WINTER HAVEN FL 33884,item,header
+18.jpg,6,0.1,ST# 03347 0P# 009036 TE# 36 TR# 05386,item,header
+18.jpg,7,0.117,GV WATER 007874235191 F 0.98 N,item,item
+18.jpg,8,0.133,GV WAIER 007874235191F 0.98 N,item,item
+18.jpg,9,0.15,GREAT VALUE 2.84 N,item,item
+18.jpg,10,0.167,007874206203 F,item,noise
+18.jpg,11,0.183,GREAT VALUE 2.84 N,item,item
+18.jpg,12,0.2,007874206203F,item,noise
+18.jpg,13,0.217,GAIN LFE 6.97 X,item,item
+18.jpg,14,0.233,003700077007,noise,noise
+18.jpg,15,0.25,GAIN 4.94 X,item,item
+18.jpg,16,0.267,003700076954,noise,noise
+18.jpg,17,0.283,GV VEG OII 7.82 N,item,item
+18.jpg,18,0.3,007874221000,noise,noise
+18.jpg,19,0.317,SNICKER FS 3.78 X,item,item
+18.jpg,20,0.333,004000050533,noise,noise
+18.jpg,21,0.35,4.76 X,item,noise
+18.jpg,22,0.367,GDBR FS 6PK 003400029305,item,item
+18.jpg,23,0.383,13.24 X,item,noise
+18.jpg,24,0.4,MIXED CHOC 004000047587,item,item
+18.jpg,25,0.417,1.78 X,item,noise
+18.jpg,26,0.433,CHERRIES 004326880002 F,item,item
+18.jpg,27,0.45,1.97 X,item,noise
+18.jpg,28,0.467,GAIN 003700082365,item,item
+18.jpg,29,0.483,9.97 N,item,noise
+18.jpg,30,0.5,HY RSTLEG PM 035497333521H,item,item
+18.jpg,31,0.517,10.97 X,item,noise
+18.jpg,32,0.533,BATTERIES 001280051783,item,item
+18.jpg,33,0.55,2.97 X,item,noise
+18.jpg,34,0.567,GV 20Z MINI 007874219999,item,item
+18.jpg,35,0.583,1.58 0,noise,noise
+18.jpg,36,0.6,CRNBRY SAUCE 003120001605 F,item,item
+18.jpg,37,0.617,002740026499 F 3.46 0,item,noise
+18.jpg,38,0.633,SPREADS,item,item
+18.jpg,39,0.65,0.90 0,noise,noise
+18.jpg,40,0.667,EGGS 6CT 007874212709 F,item,item
+18.jpg,41,0.683,SUBTOTAL 82.75,metadata,noise
+18.jpg,42,0.7,TAX 1 7.000 % 3.60,metadata,noise
+18.jpg,43,0.717,TOTAL 86.35,metadata,noise
+18.jpg,44,0.733,DEBIT TEND 86.35,metadata,noise
+18.jpg,45,0.75,CHANGE DUE 0.00,item,noise
+18.jpg,46,0.767,EFT DEBIT PAY FROM PRIMARY,metadata,noise
+18.jpg,47,0.783,86.35 TOTAL PURCHASE,metadata,noise
+18.jpg,48,0.8,FIFTHTHIRD DEBIT ** *XR* **** 9832 I 0,metadata,noise
+18.jpg,49,0.817,REF # 130400725877,item,noise
+18.jpg,50,0.833,NETWORK ID. 0076 APPR CODE 001740,item,noise
+18.jpg,51,0.85,US Debit,metadata,noise
+18.jpg,52,0.867,AIDA0000000042203,item,noise
+18.jpg,53,0.883,AAC A8FABF3DOFD07485,item,noise
+18.jpg,54,0.9,TERMINAL # SC011151,item,noise
+18.jpg,55,0.917,10/31/21 10:08:22,noise,date
+18.jpg,56,0.933,# ITEMS SOLD 18,item,noise
+18.jpg,57,0.95,TC# 7563 1623 3938 0953 7373,item,noise
+18.jpg,58,0.967,Low Prices You Can Trust. Every Day.,item,noise
+18.jpg,59,0.983,10:08:26,noise,noise
+18.jpg,60,1.0,10/31/21,noise,noise
+19.jpg,0,0.0,ID #:7QDRJJ99F3X,item,noise
+19.jpg,1,0.048,Thank you!,item,noise
+19.jpg,2,0.095,Walmart,header,header
+19.jpg,3,0.143,Mgr:EURIEL,item,header
+19.jpg,4,0.19,2000 STATE ROAD 60 E,item,header
+19.jpg,5,0.238,LAKE WALES FL 33898,item,header
+19.jpg,6,0.286,ST# 00859 0P# 009026 TE# 26 TR# 02422,item,header
+19.jpg,7,0.333,GRILL COVER 471288396027 14.97 X,item,item
+19.jpg,8,0.381,FIBER CHOICE 036926600094 12.94 N,item,item
+19.jpg,9,0.429,CELERY HEART 003338365301 F 2.48 N,item,item
+19.jpg,10,0.476,000000004023KF,item,noise
+19.jpg,11,0.524,RED GRAPE 1 lb /1.44 3.61 N,item,weight
+19.jpg,12,0.571,2.51 1b SUBTOTAL 34.00,metadata,noise
+19.jpg,13,0.619,TAX 1 7.000 % TOTAL 35.05 1.05,metadata,noise
+19.jpg,14,0.667,SHOPPING CARD TEND CHANGE DUE 35.05 0.00,item,noise
+19.jpg,15,0.714,SHOP. CARD REDEMPTION 35.05,item,noise
+19.jpg,16,0.762,ACCOUNT **********x0246,item,noise
+19.jpg,17,0.81,Beg Bal 157.29 Tran Amt 35.05 End Bal 122.24,metadata,noise
+19.jpg,18,0.857,# ITEMS SOLD 4,item,noise
+19.jpg,19,0.905,TC# 6949 6652 6669 8007 1705,item,noise
+19.jpg,20,0.952,Low Prices You Can Trust. Every Day.,item,noise
+19.jpg,21,1.0,10/16/21 11:22:45,noise,date
+1.png,0,0.0,6418 Rea Road,item,header
+1.png,1,0.021,South Charlotte NC 28277,item,header
+1.png,2,0.042,Store #742 - (704) 543-5249,header,header
+1.png,3,0.062,OPEN 8:00AM TO 9:00PM DAILY,header,header
+1.png,4,0.083,BROWN RICE 2.99,item,item
+1.png,5,0.104,FZN ORGANIC GREEN BEANS 2.29,item,item
+1.png,6,0.125,PIE CRUSTS 3.99,item,item
+1.png,7,0.146,BLUEBERRY WAFFLES 1.99,item,item
+1.png,8,0.167,TAQUITOS BLACK BEAN & CHEESE 3.99,item,item
+1.png,9,0.188,TEMPURA CHICKEN SWEET & SOUR 5.99,item,item
+1.png,10,0.208,SWEET POTATO FRIES 1.99,item,item
+1.png,11,0.229,ORGANIC SILVER DOLLAR PANCAKES 2.29,item,item
+1.png,12,0.25,BREADED CHICKEN TENDERLOIN 7.99,item,item
+1.png,13,0.271,SHREDDED SHARP CHEDDAR 3.99,item,item
+1.png,14,0.292,YOGURT DRG VANILLA QUART WHOLE 3.49,item,item
+1.png,15,0.312,MILK HALF GALLON WHOLE 1.79,item,item
+1.png,16,0.333,SHREDDED MOZZARELLA 3.99,item,item
+1.png,17,0.354,HOT DOG BEEF ORG APPLEGATE 100 5.99,item,item
+1.png,18,0.375,BROCCOLI FLORETS 12 OZ 2.29,item,item
+1.png,19,0.396,SALAD SW CHOPPED 13.6 OZ 3.29,item,item
+1.png,20,0.417,MUSHROOMS WHITE BUTTON 10 OZ 4.58,item,item
+1.png,21,0.438,20Z # 2.29/0Z,item,noise
+1.png,22,0.458,SALAD SPINACH BABY 6 OZ 1.99,item,item
+1.png,23,0.479,UNSWEETENED APPLE SAUCE 1.99,item,item
+1.png,24,0.5,ORG VEGETARIAN CHILI 2.29,item,item
+1.png,25,0.521,PIZZA SAUCE 1.99,item,item
+1.png,26,0.542,TOMATO BASIL MARINARA 1.79,item,item
+1.png,27,0.562,ORG KETCHUP 1.99,item,item
+1.png,28,0.583,CUCUMBERS HOTHOUSE EACH 2.98,item,item
+1.png,29,0.604,2EA @ 1.49/EA,qty,qty
+1.png,30,0.625,BLACKBERRIES 12 OZ 3.99,item,item
+1.png,31,0.646,EGGS LARGE WHITE DOZEN 2.78,item,item
+1.png,32,0.667,2DZ @ 1.39/DZ,qty,qty
+1.png,33,0.688,BANANA EACH 1.33,item,item
+1.png,34,0.708,7EA 0.19/EA,item,qty
+1.png,35,0.729,APPLE BAG ORG FUJI 2 LB 2.99,item,item
+1.png,36,0.75,SALSA AUTENTICA 1.99,item,item
+1.png,37,0.771,ORG VEGETARIAN CHILI 2.29,item,item
+1.png,38,0.792,ORG BLACK BEANS 0.99,item,item
+1.png,39,0.812,ORG APPLE SAUCE 4PK 1.99,item,item
+1.png,40,0.833,PASTA ORG VEGETABLE RADIATORE 1.99,item,item
+1.png,41,0.854,PEPPERS BELL TRICOLOR ORG 3 PK 4.49,item,item
+1.png,42,0.875,ORG WHOLE WHEAT SPAGHETTI,item,item
+1.png,43,0.896,CIABATTA DEMI BAGUETTE 1.49,item,item
+1.png,44,0.917,ORGANIC CORN CHIP DIPPERS 1.29,item,item
+1.png,45,0.938,WHOLE WHEAT PITA 1.99,item,item
+1.png,46,0.958,1.49,noise,noise
+1.png,47,0.979,SUBTOTAL,metadata,noise
+1.png,48,1.0,STATE TAX 1 $109,metadata,noise
+2.png,0,0.0,TRADERJOE'S,item,header
+2.png,1,0.024,5473 E 82nd St,item,header
+2.png,2,0.048,"Indianapolis, IN 46:",item,header
+2.png,3,0.071,Store #192 - (317) 59!,header,header
+2.png,4,0.095,OPEN 8:00AM TO 9:00PM DAI,header,header
+2.png,5,0.119,PAR BAKED RUSTIC ROOLS 3.29,item,item
+2.png,6,0.143,MEAL INSTANT RAMEN CUP MISO 1. 1.49,item,item
+2.png,7,0.167,MEAL INSTANT RAMEN CUP MISO 1. 1.49,item,item
+2.png,8,0.19,PLAIN BAGELS 1.99,item,item
+2.png,9,0.214,PEANUT BUTTER CREAMY SALTED 1.99,item,item
+2.png,10,0.238,MILK LACTOSE FREE HG WHOLE 3.79,item,item
+2.png,11,0.262,ORANGE ORGANIC STRAWBERRY BANA 3.69,item,item
+2.png,12,0.286,BANANA EACH 1.14,item,item
+2.png,13,0.31,6EA @ 0.19/EA,qty,qty
+2.png,14,0.333,SPREAD GARLIC 2.99,item,item
+2.png,15,0.357,HUMMUS TOMATO BASIL 1.99,item,item
+2.png,16,0.381,SALSA VERDE 1.99,item,item
+2.png,17,0.405,SALSA VERDE 1.99,item,item
+2.png,18,0.429,STRAWBERIES ORG 1 LB 5.99,item,item
+2.png,19,0.452,PASTA RAV ITAL ARUG PARM REC 3.49,item,item
+2.png,20,0.476,PASTA TORT CHSE 2.29,item,item
+2.png,21,0.5,SLCD TURKEY BREAST OV RSTED LS 4.99,item,item
+2.png,22,0.524,JUST MANGO SLICES 2.99,item,item
+2.png,23,0.548,50% LESS SALT RS WHOLE CASHEWS 7.99,metadata,item
+2.png,24,0.571,LOVERS BAR DK CHOC 85% 1.79,item,item
+2.png,25,0.595,BAG FEE 0.10,item,noise
+2.png,26,0.619,SUBTOTAL $57.46,metadata,noise
+2.png,27,0.643,TOTAL $57.46,metadata,noise
+2.png,28,0.667,VISA $57.46,metadata,noise
+2.png,29,0.69,PURCHASE - APPROVED,metadata,noise
+2.png,30,0.714,TOTAL: USD$ 57.46,metadata,noise
+2.png,31,0.738,Entry Method:Cntctle,item,noise
+2.png,32,0.762,CARD #: XXXXXXXXXXXX1039,metadata,noise
+2.png,33,0.786,AUTH CODE: 08254I SEQ #: E,metadata,noise
+2.png,34,0.81,ARC:,item,noise
+2.png,35,0.833,TC: B71F0405BA03E962,item,noise
+2.png,36,0.857,Ticket # 1200285024101s,item,noise
+2.png,37,0.881,Trans ID:1832002850241E,metadata,noise
+2.png,38,0.905,ITEMS 25,item,noise
+2.png,39,0.929,01-28-2020 10:59AM 0183 05 5,item,date
+2.png,40,0.952,THANK YOU FOR SHOPPING AT TRADER JOE',item,noise
+2.png,41,0.976,www.traderjoes.com,item,noise
+2.png,42,1.0,Check out our podcast,item,noise
+3.png,0,0.0,EXPECT MORE. PAY LESS:,header,header
+3.png,1,0.013,03/06/2016 05:25,header,date
+3.png,2,0.025,PM,noise,noise
+3.png,3,0.038,EXPIRES 06/04/16,header,header
+3.png,4,0.051,CLEANING SUPPLIES,header,header
+3.png,5,0.063,003050132,noise,noise
+3.png,6,0.076,UPUP HOUSEH $1.94,item,item
+3.png,7,0.089,GROCERY,header,header
+3.png,8,0.101,071090012,noise,noise
+3.png,9,0.114,OREO COOKIE FC $5.98,item,item
+3.png,10,0.127,2 @ $2.99 ea,qty,qty
+3.png,11,0.139,071200113 $5.89,noise,item
+3.png,12,0.152,NATVAL ENER FC,item,item
+3.png,13,0.165,071201388 $1.50,noise,item
+3.png,14,0.177,MOTTS FRTSN FC,item,item
+3.png,15,0.19,19273023 $0.50-,discount,noise
+3.png,16,0.203,Cartwheel MfrCpn,discount,noise
+3.png,17,0.215,071201388 $4.50,noise,item
+3.png,18,0.228,MOTTS FRTSN FC,item,item
+3.png,19,0.241,3 @ $1.50 ea,qty,qty
+3.png,20,0.253,Saved $1.71 off_$6.21,discount,noise
+3.png,21,0.266,203140116 V8 FC $4.19,item,item
+3.png,22,0.278,210110240 OSCAR MAYER FC $2.50,item,item
+3.png,23,0.291,210110375 OSCAR MAYE FC $3.07,item,item
+3.png,24,0.304,Cartwheel 15% off $3.62,discount,noise
+3.png,25,0.316,211080156 NAKED FC $2.50,item,item
+3.png,26,0.329,211124798 TOMATO $0.99,item,item
+3.png,27,0.342,211214061 LETTUCE 1.49,item,item
+3.png,28,0.354,212040401 KC MASTERPC 3.39,item,item
+3.png,29,0.367,212080427 MARKET PANT $3.29,item,item
+3.png,30,0.38,212140031 BC SDNLY SL FC $1.72,item,item
+3.png,31,0.392,Cartwheel 10% off $1.92,discount,noise
+3.png,32,0.405,261011548 PEPPERIDGE FC $2.99,item,item
+3.png,33,0.418,261090048 SMUCKERS FC $2.09,item,item
+3.png,34,0.43,268050036 JENNIE-0 FC,item,item
+3.png,35,0.443,$2.99,noise,noise
+3.png,36,0.456,270020350 LEAN CUISIN FC $2.45,item,item
+3.png,37,0.468,Cartwheel 15% off $2.89,discount,noise
+3.png,38,0.481,270021296 LEAN CUISIN FC $2.14,item,item
+3.png,39,0.494,270021326 LEAN CUISIN FC $2.89,item,item
+3.png,40,0.506,270021477 LEAN CUISIN FC $2.45,item,item
+3.png,41,0.519,Cartwheel 15% off $2.89,discount,noise
+3.png,42,0.532,270110029 EVOL FC $5.59,item,item
+3.png,43,0.544,Cartwheel 30% off $7.99,discount,noise
+3.png,44,0.557,270110217 BIRD SUBB FC $4.09,item,item
+3.png,45,0.57,284031157 MP EGGS FC $1.89,item,item
+3.png,46,0.582,Cartwheel 5% off $1.99,discount,noise
+3.png,47,0.595,284050033 REDDI WIP FC $3.72,item,item
+3.png,48,0.608,284062204 MP H AND FC $1.41,item,item
+3.png,49,0.62,5% off $1.49,discount,noise
+3.png,50,0.633,Cartwheel,discount,noise
+3.png,51,0.646,FC $1.00,item,noise
+3.png,52,0.658,284101094 CHOBANI,item,item
+3.png,53,0.671,FC $1.00,item,noise
+3.png,54,0.684,284101095 CHOBANI,item,item
+3.png,55,0.696,tEEE,item,noise
+3.png,56,0.709,FC $1.00,item,noise
+3.png,57,0.722,284101157 CHOBANI,item,item
+3.png,58,0.734,FC $2.00,item,noise
+3.png,59,0.747,284101488 CHOBANI,item,item
+3.png,60,0.759,2 @ $1.00 ea,qty,qty
+3.png,61,0.772,FC $3.49,item,noise
+3.png,62,0.785,288070759 BREYERS,item,item
+3.png,63,0.797,Saved $0.60 off $4.09,discount,noise
+3.png,64,0.81,288070788 BREYERS FC $3.49,item,item
+3.png,65,0.823,Saved $0.60 off $4.09,discount,noise
+3.png,66,0.835,HEALTH-BEAUTY-COSMETICS,header,header
+3.png,67,0.848,049090323 AQUAF 2PK $4.89,item,item
+3.png,68,0.861,049110079 SONICARE $21.99,item,item
+3.png,69,0.873,HOME,header,header
+3.png,70,0.886,072071302 BISSELL $129.99,item,item
+3.png,71,0.899,Saved $20.00 0ff $149.99,discount,noise
+3.png,72,0.911,SUBTOTAL $246.00,metadata,noise
+3.png,73,0.924,Your REDcard Savings $11.55,metadata,noise
+3.png,74,0.937,8.4750% on $151.37 $12.83,item,noise
+3.png,75,0.949,MO TAX,metadata,noise
+3.png,76,0.962,I1 11 $83.08 $4.55,item,noise
+3.png,77,0.975,5.4750% on,item,noise
+3.png,78,0.987,MO TAX,metadata,noise
+3.png,79,1.0,TOTAI on,item,noise
+Aldi-receipt-1.jpg,0,0.0,ALDI,item,header
+Aldi-receipt-1.jpg,1,0.013,Store #19,header,header
+Aldi-receipt-1.jpg,2,0.025,8205 S Olymp1a Ave,item,header
+Aldi-receipt-1.jpg,3,0.037,"Tulsa, OK",item,header
+Aldi-receipt-1.jpg,4,0.05,WWW.ALDI.US,item,header
+Aldi-receipt-1.jpg,5,0.062,Your cashier today was Skylar,metadata,header
+Aldi-receipt-1.jpg,6,0.075,2% Milk 2.60,item,item
+Aldi-receipt-1.jpg,7,0.087,Large Eggs 0.78,item,item
+Aldi-receipt-1.jpg,8,0.1,Large Eggs 0.78 LLL,item,item
+Aldi-receipt-1.jpg,9,0.113,Mntry/Peppr Jack 1.99,item,item
+Aldi-receipt-1.jpg,10,0.125,1.75 FB,item,noise
+Aldi-receipt-1.jpg,11,0.138,SeasonedFrnchFries,item,item
+Aldi-receipt-1.jpg,12,0.15,1.65 FB,item,noise
+Aldi-receipt-1.jpg,13,0.163,Potato Puffs,item,item
+Aldi-receipt-1.jpg,14,0.175,4.99 FB,item,noise
+Aldi-receipt-1.jpg,15,0.188,Fami ly Chkn Nugget,item,item
+Aldi-receipt-1.jpg,16,0.2,1.49 FB,item,noise
+Aldi-receipt-1.jpg,17,0.212,Carrots,item,item
+Aldi-receipt-1.jpg,18,0.225,1.17 FB,item,noise
+Aldi-receipt-1.jpg,19,0.237,Bananas LRW,item,item
+Aldi-receipt-1.jpg,20,0.25,2.67 1b x 0.44/1b,item,weight
+Aldi-receipt-1.jpg,21,0.263,2.89 FB,item,noise
+Aldi-receipt-1.jpg,22,0.275,Butter Quarters,item,item
+Aldi-receipt-1.jpg,23,0.287,1.89 FB,item,noise
+Aldi-receipt-1.jpg,24,0.3,Semi -Sweet Morsels,item,item
+Aldi-receipt-1.jpg,25,0.312,1.85 FB,item,noise
+Aldi-receipt-1.jpg,26,0.325,Vegetable Oil 48oz,item,item
+Aldi-receipt-1.jpg,27,0.338,3.49 FB,item,noise
+Aldi-receipt-1.jpg,28,0.35,Navel Oranges,item,item
+Aldi-receipt-1.jpg,29,0.362,1.29 FB,item,noise
+Aldi-receipt-1.jpg,30,0.375,Jumbo Biscuits,item,item
+Aldi-receipt-1.jpg,31,0.388,1.29 FB,item,noise
+Aldi-receipt-1.jpg,32,0.4,Kosher Baby Dills,item,item
+Aldi-receipt-1.jpg,33,0.412,1.49 FB,item,noise
+Aldi-receipt-1.jpg,34,0.425,Deli Mustards,item,item
+Aldi-receipt-1.jpg,35,0.438,1.59 FB,item,noise
+Aldi-receipt-1.jpg,36,0.45,Saltines,item,item
+Aldi-receipt-1.jpg,37,0.463,1.59 NB,item,noise
+Aldi-receipt-1.jpg,38,0.475,72 ct. Baby Wipes,item,item
+Aldi-receipt-1.jpg,39,0.487,1.89 NB,item,noise
+Aldi-receipt-1.jpg,40,0.5,Fabric Soft. Sheet,item,item
+Aldi-receipt-1.jpg,41,0.512,2.29 NB,item,noise
+Aldi-receipt-1.jpg,42,0.525,Aluminum Foil,item,item
+Aldi-receipt-1.jpg,43,0.537,0.39 FB,item,noise
+Aldi-receipt-1.jpg,44,0.55,Taco Mix,item,item
+Aldi-receipt-1.jpg,45,0.562,0.99 FB,item,noise
+Aldi-receipt-1.jpg,46,0.575,Hamburger Buns,item,item
+Aldi-receipt-1.jpg,47,0.588,0.85 FB,item,noise
+Aldi-receipt-1.jpg,48,0.6,Sndwch Wheat Bread,item,item
+Aldi-receipt-1.jpg,49,0.613,0.49 FB,item,noise
+Aldi-receipt-1.jpg,50,0.625,Cut Green Beans,item,item
+Aldi-receipt-1.jpg,51,0.637,0.49 FB,item,noise
+Aldi-receipt-1.jpg,52,0.65,Sweet Peas,item,item
+Aldi-receipt-1.jpg,53,0.662,0.49 FB,item,noise
+Aldi-receipt-1.jpg,54,0.675,Sweet Peas,item,item
+Aldi-receipt-1.jpg,55,0.688,0.49 FB,item,noise
+Aldi-receipt-1.jpg,56,0.7,Sweet Peas,item,item
+Aldi-receipt-1.jpg,57,0.713,0.49 FB,item,noise
+Aldi-receipt-1.jpg,58,0.725,Cut Green Beans,item,item
+Aldi-receipt-1.jpg,59,0.738,0.45 FB,item,noise
+Aldi-receipt-1.jpg,60,0.75,Tomato Paste,item,item
+Aldi-receipt-1.jpg,61,0.762,0.29 FB,item,noise
+Aldi-receipt-1.jpg,62,0.775,Tomato Sauce,item,item
+Aldi-receipt-1.jpg,63,0.787,1.99 NB,item,noise
+Aldi-receipt-1.jpg,64,0.8,Beauty Bar Soap,item,item
+Aldi-receipt-1.jpg,65,0.812,3.69 NB,item,noise
+Aldi-receipt-1.jpg,66,0.825,Panty Liners,item,item
+Aldi-receipt-1.jpg,67,0.838,2.92 NB,item,noise
+Aldi-receipt-1.jpg,68,0.85,Old Spice Deodornt,item,item
+Aldi-receipt-1.jpg,69,0.863,0.99 FB,item,noise
+Aldi-receipt-1.jpg,70,0.875,Cantaloupe,item,item
+Aldi-receipt-1.jpg,71,0.887,58.34,noise,noise
+Aldi-receipt-1.jpg,72,0.9,08/25/19 15:30,noise,date
+Aldi-receipt-1.jpg,73,0.912,++APPROVED++,metadata,noise
+Aldi-receipt-1.jpg,74,0.925,53.76,noise,noise
+Aldi-receipt-1.jpg,75,0.938,SUBTOTAL,metadata,noise
+Aldi-receipt-1.jpg,76,0.95,53.76 B-Taxable @8.517% 4.58,metadata,noise
+Aldi-receipt-1.jpg,77,0.963,AMOUNT DUE 58.34,item,noise
+Aldi-receipt-1.jpg,78,0.975,TOT $58.34,item,noise
+Aldi-receipt-1.jpg,79,0.988,34 ITEMS,item,noise
+Aldi-receipt-1.jpg,80,1.0,Credit Card $58.34,metadata,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,0,0.0,WALAMART,item,header
+27a22d61b44a11294529d235db0aa4a5.jpg,1,0.025,WE SELL FOR LESS,item,header
+27a22d61b44a11294529d235db0aa4a5.jpg,2,0.05,ALWAYS!,item,header
+27a22d61b44a11294529d235db0aa4a5.jpg,3,0.075,STORE 1627,item,header
+27a22d61b44a11294529d235db0aa4a5.jpg,4,0.1,05 TR$ 08226,item,header
+27a22d61b44a11294529d235db0aa4a5.jpg,5,0.125,ST# 1627 0P# 00000138 TE#,item,header
+27a22d61b44a11294529d235db0aa4a5.jpg,6,0.15,FOLIAGE BSK 072520920015 5.47,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,7,0.175,CAT FOOD 001780046572,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,8,0.2,6 AZALEA PT 004326100603 0.75,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,9,0.225,AZALEA 004326100603 0.75,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,10,0.25,AZALEA 004326100603 0.75,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,11,0.275,BAKEWARE 007286700150 0.88,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,12,0.3,WM FAC. UPR 007874231267 89'0,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,13,0.325,WM FAC UPR 007874231267 0.68,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,14,0.35,GARDEN D16 QTY 1.97,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,15,0.375,DISH GEL 003500042800 2.97J,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,16,0.4,DURA SAUCER 003283294101 0.73,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,17,0.425,HOOVER BAG M 007350250737 5.96,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,18,0.45,PLANT SAUCER 002801600600 0.34,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,19,0.475,PLANT SAUCER 002801600600 0.34,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,20,0.5,VIDEO TAPE 007410014702 5.97,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,21,0.525,REG 2.86 / 003224707797 1.40 A,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,22,0.55,CAT LITTER 007874212688 1.97,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,23,0.575,DRI-BOTTONS 073312600320 8.97 D,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,24,0.6,DRI-BOTTOMS 073312600320 8.97,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,25,0.625,SPINWHEEL 002899853600,item,item
+27a22d61b44a11294529d235db0aa4a5.jpg,26,0.65,0.75 A,item,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,27,0.675,SUBTOTAL 55.97,metadata,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,28,0.7,TAX 1 6.500 % 2.47,metadata,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,29,0.725,TOTAL 58.44,metadata,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,30,0.75,VISA TEND 588.44,metadata,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,31,0.775,ACCOUNT #7680-03/99,item,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,32,0.8,APPROV 40829,item,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,33,0.825,TRANS ID -0027226818327101,metadata,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,34,0.85,VALIDATION -4N9P,item,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,35,0.875,PAYMENT SERVICE - E,item,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,36,0.9,CHANGE DUE 0.00,item,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,37,0.925,TCO,noise,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,38,0.95,WAL-HART MASTERCARD 1-800-858-3100,item,noise
+27a22d61b44a11294529d235db0aa4a5.jpg,39,0.975,08/14/97 17142:02,noise,date
+27a22d61b44a11294529d235db0aa4a5.jpg,40,1.0,***CUSTOMER COPY***,discount,noise
+6ef0431879c90048af27b78c1e7159af.jpg,0,0.0,How doers,item,header
+6ef0431879c90048af27b78c1e7159af.jpg,1,0.025,get more done.,item,header
+6ef0431879c90048af27b78c1e7159af.jpg,2,0.05,55 FOREST PLAZA ANNAPOLIS MD 21401,item,header
+6ef0431879c90048af27b78c1e7159af.jpg,3,0.075,ANNAPOLIS MD 21401 (410)897-9077,header,header
+6ef0431879c90048af27b78c1e7159af.jpg,4,0.1,2589 00015 39105 03/19/23 12:11 PM,header,header
+6ef0431879c90048af27b78c1e7159af.jpg,5,0.125,SALE CASHIER DANIEL,metadata,header
+6ef0431879c90048af27b78c1e7159af.jpg,6,0.15,719931246608 OAK SCANT <A> 28.98,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,7,0.175,"1/2X6-48"" 0AK HOBBY BOARD",item,item
+6ef0431879c90048af27b78c1e7159af.jpg,8,0.2,718212211939 SIBLEY 24 IN <A 124.00,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,9,0.225,SIBLEY LED CHROME VANITY BAR,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,10,0.25,885612848567 CURSIVA 1H <A> 149.00,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,11,0.275,"CURSIVA 4"" 1 HDL BN",item,item
+6ef0431879c90048af27b78c1e7159af.jpg,12,0.3,078477467039 SWITCHES <A= 10.77,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,13,0.325,032076952884 NW 1G 20CU -A> 15A WHT TAMPER SWITCH & OUTLET,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,14,0.35,GB NEW WORK 1G 2OCU,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,15,0.375,200.72 1.44,noise,noise
+6ef0431879c90048af27b78c1e7159af.jpg,16,0.4,"078477211915 1G WP, WH -A> 1.16",item,item
+6ef0431879c90048af27b78c1e7159af.jpg,17,0.425,1G WHT MIDWAY BLANK WALLPLT,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,18,0.45,078477086933 1G DUP WH <A> 0.48,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,19,0.475,1G WHT DUPLEX WALLPLT,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,20,0.5,811108036613 STDC0NASST30 <A> 4.98,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,21,0.525,CE STANDARD WIRE CONCTRS-ASSTD-3O PK,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,22,0.55,070048114748 GR0UT PEN <A>,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,23,0.575,2@6.97 MAGIC TILE GROUT COATING PEN WHITE 13.94,qty,qty
+6ef0431879c90048af27b78c1e7159af.jpg,24,0.6,"885612835918 CARM 16"" BN <A> 59.98",item,item
+6ef0431879c90048af27b78c1e7159af.jpg,25,0.625,"CARMICHAEL 16"" GRAB BAR BN",item,item
+6ef0431879c90048af27b78c1e7159af.jpg,26,0.65,032076055264 ELEC STAPLE <A> 4.38,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,27,0.675,"1/2"" YLW METAL INSLTD STAPLES 100PK",item,item
+6ef0431879c90048af27b78c1e7159af.jpg,28,0.7,032886263026 14-2 NM 25' <A> 30.00,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,29,0.725,14-2 NM W/G 25 FT,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,30,0.75,"6940500320632 7"" BN LED FM <A> 36.47",item,item
+6ef0431879c90048af27b78c1e7159af.jpg,31,0.775,"BN 7"" LED MINI FLUSHMNT 2PK",item,item
+6ef0431879c90048af27b78c1e7159af.jpg,32,0.8,"818897010954 6 0UTLET USB <A> 25,88",item,item
+6ef0431879c90048af27b78c1e7159af.jpg,33,0.825,CE 2 PACK 6 OUTLETS 4 USB SURGE TAP,item,item
+6ef0431879c90048af27b78c1e7159af.jpg,34,0.85,SUBTOTAL 491.46 29.49,metadata,noise
+6ef0431879c90048af27b78c1e7159af.jpg,35,0.875,SALES TAX TOTAL $520.95,metadata,noise
+6ef0431879c90048af27b78c1e7159af.jpg,36,0.9,XXXXXXXXXXXX2616 DEBTT USD$ 520.95,item,noise
+6ef0431879c90048af27b78c1e7159af.jpg,37,0.925,AUTH CODE 000399 Verified By PIN,metadata,noise
+6ef0431879c90048af27b78c1e7159af.jpg,38,0.95,Chip Read US DEBIT,metadata,noise
+6ef0431879c90048af27b78c1e7159af.jpg,39,0.975,AID' A0000000980840,item,noise
+6ef0431879c90048af27b78c1e7159af.jpg,40,1.0,589 03/19/23 12:11 PM,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,0,0.0,NEW,noise,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,1,0.021,7/19/22,header,header
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,2,0.042,Cocktail Time Wine & Spirits,item,header
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,3,0.062,1317 N. Maize Rd. Suite 109,item,header
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,4,0.083,"Wichita, KS, 67212",item,header
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,5,0.104,316-260-9962,noise,header
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,6,0.125,Price Quote,item,header
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,7,0.146,P.O. NUmber: BRENDA KOBLER,item,header
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,8,0.167,07/19/2022 Time 10:01am TX# 706716,item,date
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,9,0.188,Station:02 Drawer:1,item,header
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,10,0.208,Logon: 1 Mark,item,header
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,11,0.229,2 7049123002 Price 6.291,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,12,0.25,MASTER MIX LOADED BLODDY MARY 12.58T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,13,0.271,Discounted Reg. 6.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,14,0.292,22 1820053030 Price 21.99,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,15,0.312,BUD LIGHT CAN 30/120Z 483.78T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,16,0.333,Discounted Reg. 24.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,17,0.354,16 3410057341 Price 21.99,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,18,0.375,MILLER LITE CAN 30/120Z 351.84T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,19,0.396,Discounted Reg. 24.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,20,0.417,10 8200072760 Price 17.991,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,21,0.438,SMIRNOFF VODKA RED 80 PET 1. 179.91T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,22,0.458,Discounted Reg. 19.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,23,0.479,2 8043240164 Price 19.791,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,24,0.5,SEAGRAMS GIN LIME TWISTED 1.75 39.58T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,25,0.521,Discounted Reg. 21.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,26,0.542,8224201325 Price 16.141,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,27,0.562,BOTA BOX 17 PINOT GRIGIO 3L 64.56T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,28,0.583,Discounted Reg. 18.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,29,0.604,4 8224201236 Price 16.141,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,30,0.625,BOTA BOX 17 PINOT NOIR 3L 64.56T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,31,0.646,Discounted Reg. 18.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,32,0.667,8800402774 Price 59.99,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,33,0.688,WELLER BOURBON 12 YR 90PF 750M 59.99T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,34,0.708,6 8200075910 Price 22.491,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,35,0.729,C. MORGAN RUM SPICE PET 1.75L 134.95T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,36,0.75,Discounted Reg. 24.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,37,0.771,7 8769200991 Price 15.291,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,38,0.792,TRULY LEMONADE VAR. SELTZER C 107.04T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,39,0.812,Discounted Reg. 16.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,40,0.833,8 4006340043 Price 39.591,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,41,0.854,FOUR ROSES BOURBON 1.75L 316.73T,item,item
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,42,0.875,Discounted Reg. 43.99,item,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,43,0.896,** Quote ** Quote ** Quote ** Quote **,discount,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,44,0.917,82 I tem(s) Sub Total 1815.52,metadata,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,45,0.938,Liquor Tax 144.24,metadata,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,46,0.958,Retail Tax .94,metadata,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,47,0.979,Total 1960.70,metadata,noise
+6dec9c53c895c77cdeeb6daea004d6b9.jpg,48,1.0,You Saved 224.65,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,0,0.0,GLAD GARBAGE BAGS,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,1,0.022,DOLE FRT BWL M/ORN $10.29 G,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,2,0.043,DOLE FRUIT BOWL MS $4.29,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,3,0.065,CG UNSWT_ORNG JCE -$1.29,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,4,0.087,1@ 4 FOR $5.00 $1.25,item,qty
+17kwveEU_hF6lGgEHj-17pw.jpeg,5,0.109,PLUS .00 CRF/EA $0.02,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,6,0.13,PLUS 10 DEP/EA $0.10,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,7,0.152,CG UNSWT ORNG JCE,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,8,0.174,1 @ 4 FOR $5.00 $1.25,item,qty
+17kwveEU_hF6lGgEHj-17pw.jpeg,9,0.196,PLUS .00 CRF/EA $0.02,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,10,0.217,PLUS ·10 DEP/EA $0.10,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,11,0.239,DLAND LACTOSE FREE $5.29,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,12,0.261,PLUS .08 CRF/EA $0.08,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,13,0.283,PLUS .25 DEP/EA $0.25,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,14,0.304,DANONE 650G ACTIVI,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,15,0.326,1 © 3 FOR $9.99 $3.33,item,qty
+17kwveEU_hF6lGgEHj-17pw.jpeg,16,0.348,PILL CINN ROLLS $3.99,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,17,0.37,CG CRM CHS SPRDBLE $3.98,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,18,0.391,BECEL MARG SOFT 45 $4.19,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,19,0.413,FIASCO SORBETTO $7.99,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,20,0.435,ASPARAGUS 4080,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,21,0.457,0.445 kg @ $17.61/kg $7.84,weight,weight
+17kwveEU_hF6lGgEHj-17pw.jpeg,22,0.478,LEMONS BULK,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,23,0.5,2@ 2 FOR $0.99 $0.99,item,qty
+17kwveEU_hF6lGgEHj-17pw.jpeg,24,0.522,CUCUMBERS FIELD $2.29,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,25,0.543,BANANAS YELLOW 4011,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,26,0.565,0.970 kg@ $1.96/kg $1.90,weight,weight
+17kwveEU_hF6lGgEHj-17pw.jpeg,27,0.587,SWT KALE SLD KIT $5.99,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,28,0.609,RAISINS THOMPSON 1028,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,29,0.63,0.145_kg @ $7.90/kg $1.15,item,weight
+17kwveEU_hF6lGgEHj-17pw.jpeg,30,0.652,CHOCOLATE CHIPS 1019,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,31,0.674,0.180 kg $9.90/kg $1.78,weight,weight
+17kwveEU_hF6lGgEHj-17pw.jpeg,32,0.696,ALMONDS SLIC NATUR 1015,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,33,0.717,0.350 kg @ $37.90/kg $13.27,weight,weight
+17kwveEU_hF6lGgEHj-17pw.jpeg,34,0.739,ROLL OATS,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,35,0.761,1 @ 2 FOR $5.00 $2.50,item,qty
+17kwveEU_hF6lGgEHj-17pw.jpeg,36,0.783,BLUEBERRIES PACKAG $4.88,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,37,0.804,HAM BLACKFOREST $3.94,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,38,0.826,BREAD CIABATTA $4.99,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,39,0.848,PORK RIB END ROAST,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,40,0.87,SALMON FILLETS $9.65,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,41,0.891,SALMON FILLETS $4.52,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,42,0.913,GOOD DRINK TEA $4.37,item,item
+17kwveEU_hF6lGgEHj-17pw.jpeg,43,0.935,PLUS .08 CRE/EA $2.89,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,44,0.957,PLUS 10 DEP/EA $0.09,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,45,0.978,6 IN HANGING BASKE $0.10,item,noise
+17kwveEU_hF6lGgEHj-17pw.jpeg,46,1.0,$14.99,noise,noise
+caption.jpg,0,0.0,LOS TRES AMIGOS,item,header
+caption.jpg,1,0.037,2201 Lapalco Blvd,header,header
+caption.jpg,2,0.074,Harvey LA 70058,item,header
+caption.jpg,3,0.111,504-362-7221,noise,header
+caption.jpg,4,0.148,Server: Margarita 12/10/2023,header,header
+caption.jpg,5,0.185,16/1 1:14 PM,item,header
+caption.jpg,6,0.222,Guests: 2,item,header
+caption.jpg,7,0.259,#20009,noise,header
+caption.jpg,8,0.296,Reprint #: 1,item,header
+caption.jpg,9,0.333,Order Type: DO NOT MAKE,item,header
+caption.jpg,10,0.37,NC Water (2 @0.00) 0.00,item,item
+caption.jpg,11,0.407,L18 LUNCH -FAJITA 12.99,item,item
+caption.jpg,12,0.444,Chicken & Steak,item,item
+caption.jpg,13,0.481,Flour,item,item
+caption.jpg,14,0.519,RICE,item,item
+caption.jpg,15,0.556,REFRIED BEANS,item,item
+caption.jpg,16,0.593,L22 ENCHILADA SPECIAL 11.99,item,item
+caption.jpg,17,0.63,Steak,item,item
+caption.jpg,18,0.667,Tres Leches 4.99,item,item
+caption.jpg,19,0.704,Complete Subtotal 29.97,metadata,noise
+caption.jpg,20,0.741,Subtotal 29.97,metadata,noise
+caption.jpg,21,0.778,Tax 2.76,metadata,noise
+caption.jpg,22,0.815,Total 32.73,metadata,noise
+caption.jpg,23,0.852,Balance Due 32.73,metadata,noise
+caption.jpg,24,0.889,Our Staff Thanks You,item,noise
+caption.jpg,25,0.926,For Dining With Us!!!,item,noise
+caption.jpg,26,0.963,Vist Our Website,item,noise
+caption.jpg,27,1.0,lostresamigosmexicanrestaurant.com,item,noise
+kari-l-meal-plan-receipt.jpg,0,0.0,The Mei jer Team appreciates your business,item,header
+kari-l-meal-plan-receipt.jpg,1,0.02,03/06/15,header,header
+kari-l-meal-plan-receipt.jpg,2,0.039,Vour fast and friendly checkout was,item,header
+kari-l-meal-plan-receipt.jpg,3,0.059,provided by Fastlane105,item,header
+kari-l-meal-plan-receipt.jpg,4,0.078,MEIJER SAVINGS,item,noise
+kari-l-meal-plan-receipt.jpg,5,0.098,SPECIALS 4.63,item,noise
+kari-l-meal-plan-receipt.jpg,6,0.118,SAVINGS TOTAL 4.63,metadata,noise
+kari-l-meal-plan-receipt.jpg,7,0.137,YOUR TOTAL SAVINGS,metadata,noise
+kari-l-meal-plan-receipt.jpg,8,0.157,SINCE 01/01/15,item,noise
+kari-l-meal-plan-receipt.jpg,9,0.176,368.26,noise,noise
+kari-l-meal-plan-receipt.jpg,10,0.196,For additional savings and rewards visit,item,noise
+kari-l-meal-plan-receipt.jpg,11,0.216,mPerks.com,item,noise
+kari-l-meal-plan-receipt.jpg,12,0.235,GROCERY,header,header
+kari-l-meal-plan-receipt.jpg,13,0.255,4011 BANANAS 1.05,item,item
+kari-l-meal-plan-receipt.jpg,14,0.275,1.95 1b 9 1 lb / .54,item,weight
+kari-l-meal-plan-receipt.jpg,15,0.294,4062 CUCUMBERS .59,item,item
+kari-l-meal-plan-receipt.jpg,16,0.314,76023675134 MRJ PNAPLE CHNK .79,item,item
+kari-l-meal-plan-receipt.jpg,17,0.333,4901 PARSLEY 89,item,item
+kari-l-meal-plan-receipt.jpg,18,0.353,4068 GREEN ONION,item,item
+kari-l-meal-plan-receipt.jpg,19,0.373,82/ 1.00 .50,noise,qty
+kari-l-meal-plan-receipt.jpg,20,0.392,2529300280 SILK FRTY/CRMY 1.19,item,item
+kari-l-meal-plan-receipt.jpg,21,0.412,70882039333 CRUSHED TOMATO 1.59,item,item
+kari-l-meal-plan-receipt.jpg,22,0.431,7680800391 GLTN FREE PASTA 2.19,item,item
+kari-l-meal-plan-receipt.jpg,23,0.451,73762801160 COCNT MLK LT 2.19,item,item
+kari-l-meal-plan-receipt.jpg,24,0.471,75194498002 OR BASIL 2.49,item,item
+kari-l-meal-plan-receipt.jpg,25,0.49,L125002795 SNOINO,item,item
+kari-l-meal-plan-receipt.jpg,26,0.51,2279 2.69 5.38 L4,item,qty
+kari-l-meal-plan-receipt.jpg,27,0.529,71928391707 DICE TOMATO 2.69,item,item
+kari-l-meal-plan-receipt.jpg,28,0.549,4125085424 FRZ VEGETABLES,item,item
+kari-l-meal-plan-receipt.jpg,29,0.569,84 5.00 1.25,noise,qty
+kari-l-meal-plan-receipt.jpg,30,0.588,4125096424 FROZEN PEAS,item,item
+kari-l-meal-plan-receipt.jpg,31,0.608,1 04 5.00 1.25,noise,qty
+kari-l-meal-plan-receipt.jpg,32,0.627,×4125096392 BLACK BEANS,item,item
+kari-l-meal-plan-receipt.jpg,33,0.647,3 0 .79,noise,noise
+kari-l-meal-plan-receipt.jpg,34,0.667,was 2.55 now 2.37,item,noise
+kari-l-meal-plan-receipt.jpg,35,0.686,4125096393 GARBANZO BEANS,item,item
+kari-l-meal-plan-receipt.jpg,36,0.706,was .85 now .79,item,noise
+kari-l-meal-plan-receipt.jpg,37,0.725,71928356087 MEIJER BROTH,item,item
+kari-l-meal-plan-receipt.jpg,38,0.745,2 9 1.99 3.98,noise,qty
+kari-l-meal-plan-receipt.jpg,39,0.765,was 5.58 now,item,noise
+kari-l-meal-plan-receipt.jpg,40,0.784,4688 PPEPPERS,item,item
+kari-l-meal-plan-receipt.jpg,41,0.804,102/ 3.00 1.50,item,qty
+kari-l-meal-plan-receipt.jpg,42,0.824,was 2.00 now,item,noise
+kari-l-meal-plan-receipt.jpg,43,0.843,9955508206 K-CUPS,item,item
+kari-l-meal-plan-receipt.jpg,44,0.863,was 6.99 now 4.99,item,noise
+kari-l-meal-plan-receipt.jpg,45,0.882,3597135928 RED CABBAGE,item,item
+kari-l-meal-plan-receipt.jpg,46,0.902,1 05 5.00 1.00,noise,qty
+kari-l-meal-plan-receipt.jpg,47,0.922,was 1.29 now,item,noise
+kari-l-meal-plan-receipt.jpg,48,0.941,Moerks # xxxxxx*x65,item,noise
+kari-l-meal-plan-receipt.jpg,49,0.961,TOTAL 00,metadata,noise
+kari-l-meal-plan-receipt.jpg,50,0.98,TOTAL TAX 38.67,metadata,noise
+kari-l-meal-plan-receipt.jpg,51,1.0,TOTAI,item,noise
+money-back-receipt.jpg,0,0.0,STACY MULTI GRN PI,item,item
+money-back-receipt.jpg,1,0.024,1 @ 2 FOR 4.00 2.00 t F,item,qty
+money-back-receipt.jpg,2,0.049,Savings 1.29,item,noise
+money-back-receipt.jpg,3,0.073,STACYS TUSC HRB PC,item,item
+money-back-receipt.jpg,4,0.098,1 @ 2 FOR 4.00 2.00 t F,item,qty
+money-back-receipt.jpg,5,0.122,Savings 1.29,item,noise
+money-back-receipt.jpg,6,0.146,FrenchS SQ mUstaRD,item,item
+money-back-receipt.jpg,7,0.171,1 @ 2 FOR 0.94 t F,item,qty
+money-back-receipt.jpg,8,0.195,1.87,noise,noise
+money-back-receipt.jpg,9,0.22,Savings 0.93,item,noise
+money-back-receipt.jpg,10,0.244,DBL STF GLDN OREO 3.19 t F,item,item
+money-back-receipt.jpg,11,0.268,KRAFT VELVEETA CHZ,item,item
+money-back-receipt.jpg,12,0.293,1 @ 2 FOR 3.85 1.93 t F,item,qty
+money-back-receipt.jpg,13,0.317,Savings 1.92,item,noise
+money-back-receipt.jpg,14,0.341,PUBLIX MILK 2% 2.69 t F,item,item
+money-back-receipt.jpg,15,0.366,COMPETITOR COUPON -2.00 t,item,noise
+money-back-receipt.jpg,16,0.39,FREE MILK FR POST -2.69,item,noise
+money-back-receipt.jpg,17,0.415,Vendor Coupon -1.00,item,noise
+money-back-receipt.jpg,18,0.439,Vendor Coupon -1.00,item,noise
+money-back-receipt.jpg,19,0.463,Vendor Coupon -3.19,item,noise
+money-back-receipt.jpg,20,0.488,Vendor Coupon -0.50,item,noise
+money-back-receipt.jpg,21,0.512,Multiplied Cpn -0.50,item,noise
+money-back-receipt.jpg,22,0.537,Vendor Coupon -2.00,item,noise
+money-back-receipt.jpg,23,0.561,Vendor Coupon -2.00,item,noise
+money-back-receipt.jpg,24,0.585,VENDOR COUPON -2.00,item,noise
+money-back-receipt.jpg,25,0.61,Vendor Coupon -2.00,item,noise
+money-back-receipt.jpg,26,0.634,Vendor Coupon -1.00,item,noise
+money-back-receipt.jpg,27,0.659,COMPETITOR COUPON -5.00,item,noise
+money-back-receipt.jpg,28,0.683,Order Total -2.13,metadata,noise
+money-back-receipt.jpg,29,0.707,Regular Tax 0.00,metadata,noise
+money-back-receipt.jpg,30,0.732,Food Tax 0.30,metadata,noise
+money-back-receipt.jpg,31,0.756,Grand Total -1.83,metadata,noise
+money-back-receipt.jpg,32,0.78,Change 1.83,item,noise
+money-back-receipt.jpg,33,0.805,Savings Summary 10.19,item,noise
+money-back-receipt.jpg,34,0.829,Store Coupon 14.69,item,noise
+money-back-receipt.jpg,35,0.854,Vendor Coupon,item,noise
+money-back-receipt.jpg,36,0.878,Special Price Savings 11.39,item,noise
+money-back-receipt.jpg,37,0.902,**************************************,discount,noise
+money-back-receipt.jpg,38,0.927,Your Savings at Publix,item,noise
+money-back-receipt.jpg,39,0.951,36.27,noise,noise
+money-back-receipt.jpg,40,0.976,**************************************,discount,noise
+money-back-receipt.jpg,41,1.0,Your cashier was Misty-Jay,metadata,noise
+pbgg2w7kvlx81.jpg,0,0.0,West1ake WSL 206-621-9700,item,header
+pbgg2w7kvlx81.jpg,1,0.019,2210 Westlake Ave,header,header
+pbgg2w7kvlx81.jpg,2,0.037,"Seattle, WA 98121",item,header
+pbgg2w7kvlx81.jpg,3,0.056,365WFM OG BERRY CRSP PLLW $4.99,item,item
+pbgg2w7kvlx81.jpg,4,0.074,365WFM OG HZLNUT CO PLLW $4.99,item,item
+pbgg2w7kvlx81.jpg,5,0.093,KETTL POTATO CHIP $3.49,item,item
+pbgg2w7kvlx81.jpg,6,0.111,KETTL HBNERO LIME CHIPS $3.49,item,item
+pbgg2w7kvlx81.jpg,7,0.13,365WFM OG REDUCED FAT MK $3.69,item,item
+pbgg2w7kvlx81.jpg,8,0.148,365WFM ORANGE NO PULP $4.49,item,item
+pbgg2w7kvlx81.jpg,9,0.167,365WFM OG VDK PASTA SC $3.49,item,item
+pbgg2w7kvlx81.jpg,10,0.185,STEW MEAT PSTR S4,item,item
+pbgg2w7kvlx81.jpg,11,0.204,BF CHK,item,item
+pbgg2w7kvlx81.jpg,12,0.222,1.99 1b $7.99 /1b $15.90,item,weight
+pbgg2w7kvlx81.jpg,13,0.241,CHED JACK SHRED $6.49 9F,item,item
+pbgg2w7kvlx81.jpg,14,0.259,365WFM,item,item
+pbgg2w7kvlx81.jpg,15,0.278,OG HEAVY CREAM $3.99 F,item,item
+pbgg2w7kvlx81.jpg,16,0.296,365WFM,item,item
+pbgg2w7kvlx81.jpg,17,0.315,SALMON FILLET,item,item
+pbgg2w7kvlx81.jpg,18,0.333,1b $11.99 /1b $10.19 F,item,weight
+pbgg2w7kvlx81.jpg,19,0.352,0.85,noise,noise
+pbgg2w7kvlx81.jpg,20,0.37,KSGGIO ORIGINALE CUBES,item,item
+pbgg2w7kvlx81.jpg,21,0.389,1b @ $14.99 /1b $8.09 F,item,weight
+pbgg2w7kvlx81.jpg,22,0.407,0.54,noise,noise
+pbgg2w7kvlx81.jpg,23,0.426,xx$1 OFF/LB CHEESE -$0.54,discount,noise
+pbgg2w7kvlx81.jpg,24,0.444,WFMOG CHICKEN SAUSAGE $6.99,item,item
+pbgg2w7kvlx81.jpg,25,0.463,ENGLISH CUCUMBER $2.29,item,item
+pbgg2w7kvlx81.jpg,26,0.481,365WFM OG WHT SLCD MSHRM $3.99,item,item
+pbgg2w7kvlx81.jpg,27,0.5,365WFM ALMOND TORTILLAS $6.99,item,item
+pbgg2w7kvlx81.jpg,28,0.519,365WFM CASSAVA TORTILLAS $6.99,item,item
+pbgg2w7kvlx81.jpg,29,0.537,Subtotal: $100.54,metadata,noise
+pbgg2w7kvlx81.jpg,30,0.556,Total Savings: -$0.54,metadata,noise
+pbgg2w7kvlx81.jpg,31,0.574,Net Sales: $100.00,item,noise
+pbgg2w7kvlx81.jpg,32,0.593,Total :,metadata,noise
+pbgg2w7kvlx81.jpg,33,0.611,$100.00,noise,noise
+pbgg2w7kvlx81.jpg,34,0.63,Sold Items:,item,noise
+pbgg2w7kvlx81.jpg,35,0.648,17,noise,noise
+pbgg2w7kvlx81.jpg,36,0.667,Paid:,item,noise
+pbgg2w7kvlx81.jpg,37,0.685,MasterCard *6258 $100.00,item,noise
+pbgg2w7kvlx81.jpg,38,0.704,Chip Card:MASTERCARD,item,noise
+pbgg2w7kvlx81.jpg,39,0.722,Chip Card AID: A0000000041010,item,noise
+pbgg2w7kvlx81.jpg,40,0.741,RETURNs: All returns require a receipt.,item,noise
+pbgg2w7kvlx81.jpg,41,0.759,No returns on i tems purchased after,item,noise
+pbgg2w7kvlx81.jpg,42,0.778,0 days. For additional information,item,noise
+pbgg2w7kvlx81.jpg,43,0.796,please visit wfm.com/returns.,item,noise
+pbgg2w7kvlx81.jpg,44,0.815,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,item,noise
+pbgg2w7kvlx81.jpg,45,0.833,"Prime members save at Whole Foods Market,",item,noise
+pbgg2w7kvlx81.jpg,46,0.852,"and get Free Shipping, Video, Musicr & more",item,noise
+pbgg2w7kvlx81.jpg,47,0.87,Learn more at amazon.com/PrimeSavings,item,noise
+pbgg2w7kvlx81.jpg,48,0.889,Earn 5% Back at Whole Foods Market,item,noise
+pbgg2w7kvlx81.jpg,49,0.907,with the Amazon Prime Rewards Visa.,metadata,noise
+pbgg2w7kvlx81.jpg,50,0.926,Learn more at amazon.com/wfmvisa,metadata,noise
+pbgg2w7kvlx81.jpg,51,0.944,xxxxxxxxxxxxxxxxxxxxxxxxxxxx,item,noise
+pbgg2w7kvlx81.jpg,52,0.963,HOW WAS YOUR SHOPPING EXPERIENCE?,item,noise
+pbgg2w7kvlx81.jpg,53,0.981,Go to: http://www.wfm.com/feedback,item,noise
+pbgg2w7kvlx81.jpg,54,1.0,01075,noise,noise
+sub-buzz-407-1681162017-1.png,0,0.0,2.95 FB,item,noise
+sub-buzz-407-1681162017-1.png,1,0.019,SeasonedFrnchFries,item,item
+sub-buzz-407-1681162017-1.png,2,0.038,6.99 FB,item,noise
+sub-buzz-407-1681162017-1.png,3,0.057,Popcorn Chicken,item,item
+sub-buzz-407-1681162017-1.png,4,0.075,5.49 FB,item,noise
+sub-buzz-407-1681162017-1.png,5,0.094,Hash Brown Patties,item,item
+sub-buzz-407-1681162017-1.png,6,0.113,5.49 FB,item,noise
+sub-buzz-407-1681162017-1.png,7,0.132,Hash Brown Patties,item,item
+sub-buzz-407-1681162017-1.png,8,0.151,VOID -5.49 FB,item,noise
+sub-buzz-407-1681162017-1.png,9,0.17,Hash Brown Patties,item,item
+sub-buzz-407-1681162017-1.png,10,0.189,1.29 FB,item,noise
+sub-buzz-407-1681162017-1.png,11,0.208,Sandwich White Brd,item,item
+sub-buzz-407-1681162017-1.png,12,0.226,1.29 FB,item,noise
+sub-buzz-407-1681162017-1.png,13,0.245,Hamburger Buns,item,item
+sub-buzz-407-1681162017-1.png,14,0.264,0.50 FB,item,noise
+sub-buzz-407-1681162017-1.png,15,0.283,Whole Kernel Corn,item,item
+sub-buzz-407-1681162017-1.png,16,0.302,Whole Kernel Corn 0.50 FB,item,item
+sub-buzz-407-1681162017-1.png,17,0.321,SpaghettiOs Pasta 1.26 FB,item,item
+sub-buzz-407-1681162017-1.png,18,0.34,Mini Babybel 3.49 FB,item,item
+sub-buzz-407-1681162017-1.png,19,0.358,String Cheese 2.69 FB,item,item
+sub-buzz-407-1681162017-1.png,20,0.377,Gordos Queso Dip 3.99 FB,item,item
+sub-buzz-407-1681162017-1.png,21,0.396,Ground Lamb 5.85 FB,item,item
+sub-buzz-407-1681162017-1.png,22,0.415,French Bread Pizza,item,item
+sub-buzz-407-1681162017-1.png,23,0.434,3.49 FB,item,noise
+sub-buzz-407-1681162017-1.png,24,0.453,Mozz Sticks,item,item
+sub-buzz-407-1681162017-1.png,25,0.472,3.49 FB,item,noise
+sub-buzz-407-1681162017-1.png,26,0.491,ChknBreastNuggets 5.59 FB,item,item
+sub-buzz-407-1681162017-1.png,27,0.509,Chicken Tenderloin,item,item
+sub-buzz-407-1681162017-1.png,28,0.528,11.54 FB,item,noise
+sub-buzz-407-1681162017-1.png,29,0.547,Chicken Tenderloin,item,item
+sub-buzz-407-1681162017-1.png,30,0.566,12.87 FB,item,noise
+sub-buzz-407-1681162017-1.png,31,0.585,Tortilla Strips,item,item
+sub-buzz-407-1681162017-1.png,32,0.604,3.29 FB,item,noise
+sub-buzz-407-1681162017-1.png,33,0.623,Flour Tortillas,item,item
+sub-buzz-407-1681162017-1.png,34,0.642,1.95 FB,item,noise
+sub-buzz-407-1681162017-1.png,35,0.66,Pnt Btr Wafers,item,item
+sub-buzz-407-1681162017-1.png,36,0.679,1.79 FB,item,noise
+sub-buzz-407-1681162017-1.png,37,0.698,Fruit Flavored Snk,item,item
+sub-buzz-407-1681162017-1.png,38,0.717,4.69 FC,item,noise
+sub-buzz-407-1681162017-1.png,39,0.736,Shells & Cheese,item,item
+sub-buzz-407-1681162017-1.png,40,0.755,4.35 FB,item,noise
+sub-buzz-407-1681162017-1.png,41,0.774,3 @ 1.45,qty,qty
+sub-buzz-407-1681162017-1.png,42,0.792,Large Eggs,item,item
+sub-buzz-407-1681162017-1.png,43,0.811,2.29 FB,item,noise
+sub-buzz-407-1681162017-1.png,44,0.83,MintChip/Chocolate,item,item
+sub-buzz-407-1681162017-1.png,45,0.849,2.48 FB,item,noise
+sub-buzz-407-1681162017-1.png,46,0.868,Chkn Ramen Soup 3.68 FB,item,item
+sub-buzz-407-1681162017-1.png,47,0.887,SUBTOTAL 97.79,metadata,noise
+sub-buzz-407-1681162017-1.png,48,0.906,C-Taxable @7.500% 0.35,metadata,noise
+sub-buzz-407-1681162017-1.png,49,0.925,B-Taxable @2.000% 1.86,metadata,noise
+sub-buzz-407-1681162017-1.png,50,0.943,AMOUNT DUE 100.00,item,noise
+sub-buzz-407-1681162017-1.png,51,0.962,TOT AL $100.00,item,noise
+sub-buzz-407-1681162017-1.png,52,0.981,27 ITEMS,item,noise
+sub-buzz-407-1681162017-1.png,53,1.0,Debit Card $ 100.00,metadata,noise
+0a017323e96628df3252a0249fde6f61.jpg,0,0.0,TARGET,header,header
+0a017323e96628df3252a0249fde6f61.jpg,1,0.022,EXPECT MORE PAY LESS:,header,header
+0a017323e96628df3252a0249fde6f61.jpg,2,0.044,REGENCY -904-721-4909,item,header
+0a017323e96628df3252a0249fde6f61.jpg,3,0.067,08/17/2018 08:36 PM EXP1RES 11/15/18,header,date
+0a017323e96628df3252a0249fde6f61.jpg,4,0.089,CLEANING SUPPLIES $5.99,item,header
+0a017323e96628df3252a0249fde6f61.jpg,5,0.111,003070458 ^LYSOL,item,item
+0a017323e96628df3252a0249fde6f61.jpg,6,0.133,Regular Price $5.99,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,7,0.156,Refund Value $4.34,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,8,0.178,$1.00-,discount,noise
+0a017323e96628df3252a0249fde6f61.jpg,9,0.2,0019200-04853 MFR COUPON,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,10,0.222,003070458 LYSOL $5.99,item,item
+0a017323e96628df3252a0249fde6f61.jpg,11,0.244,Regular Price $5.99,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,12,0.267,Refund Value $4.34,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,13,0.289,$1.00-,discount,noise
+0a017323e96628df3252a0249fde6f61.jpg,14,0.311,0019200-04853 MFR COUPON,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,15,0.333,003080338 ^TIDE 2X $11.99,item,item
+0a017323e96628df3252a0249fde6f61.jpg,16,0.356,Regular Price $11.99,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,17,0.378,Refund Value $8.68,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,18,0.4,$2.00-,discount,noise
+0a017323e96628df3252a0249fde6f61.jpg,19,0.422,0037000-13945 MFR COUPON $11.99,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,20,0.444,003080338 TIDE 2X,item,item
+0a017323e96628df3252a0249fde6f61.jpg,21,0.467,Regular Price $11.99,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,22,0.489,Refund Value $8.68,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,23,0.511,$2.00-,discount,noise
+0a017323e96628df3252a0249fde6f61.jpg,24,0.533,0037000-13945 MFR COUPON $9.19,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,25,0.556,003080713 TIDE 2X,item,item
+0a017323e96628df3252a0249fde6f61.jpg,26,0.578,Regular Price $9.19,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,27,0.6,Refund Value $6.65,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,28,0.622,MFR COUPON $3.00--,discount,noise
+0a017323e96628df3252a0249fde6f61.jpg,29,0.644,0037000-13945 $9.19,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,30,0.667,003080713 TIDE 2X,item,item
+0a017323e96628df3252a0249fde6f61.jpg,31,0.689,Regular Price $9.19,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,32,0.711,Refund Value $6.65,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,33,0.733,$3.00-,discount,noise
+0a017323e96628df3252a0249fde6f61.jpg,34,0.756,0037000-13945 MFR COUPON,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,35,0.778,CATEGORY COUPON $15.00-,discount,noise
+0a017323e96628df3252a0249fde6f61.jpg,36,0.8,10374196,noise,noise
+0a017323e96628df3252a0249fde6f61.jpg,37,0.822,SUBTOTAL $27.34,metadata,noise
+0a017323e96628df3252a0249fde6f61.jpg,38,0.844,T = FL TAX 7.0000% on $39.34 $2.76,metadata,noise
+0a017323e96628df3252a0249fde6f61.jpg,39,0.867,TOTAL $30.10,metadata,noise
+0a017323e96628df3252a0249fde6f61.jpg,40,0.889,*2140 GIFT CARD PAYMENT $15.00,discount,noise
+0a017323e96628df3252a0249fde6f61.jpg,41,0.911,*9591 DEBIT TOTAL PAYMENT $15.10,metadata,noise
+0a017323e96628df3252a0249fde6f61.jpg,42,0.933,AID:A0000000980840,item,noise
+0a017323e96628df3252a0249fde6f61.jpg,43,0.956,US DEBIT,metadata,noise
+0a017323e96628df3252a0249fde6f61.jpg,44,0.978,*2140 GIFT CARD BALANCE $0.00,metadata,noise
+0a017323e96628df3252a0249fde6f61.jpg,45,1.0,TOTAL SAVINGS THIS TRIP,metadata,noise
+EJMzgniUUAAE3UC.jpg,0,0.0,TARGET,header,header
+EJMzgniUUAAE3UC.jpg,1,0.038,EXECT HONE PY LESB:,item,header
+EJMzgniUUAAE3UC.jpg,2,0.077,Redwood City - 650-363-8940,item,header
+EJMzgniUUAAE3UC.jpg,3,0.115,2485 El Camino Real,item,header
+EJMzgniUUAAE3UC.jpg,4,0.154,"Redwood City, CA 94063-2849",item,header
+EJMzgniUUAAE3UC.jpg,5,0.192,11/11/2019 04:48 PM,item,date
+EJMzgniUUAAE3UC.jpg,6,0.231,ELECTRONICS,item,header
+EJMzgniUUAAE3UC.jpg,7,0.269,790012324 PROM0 GFTCRD $0.00,item,item
+EJMzgniUUAAE3UC.jpg,8,0.308,041-220-295-238-591,noise,noise
+EJMzgniUUAAE3UC.jpg,9,0.346,New Bal: $5.00,metadata,noise
+EJMzgniUUAAE3UC.jpg,10,0.385,HEALTH AND BEAUTY,item,header
+EJMzgniUUAAE3UC.jpg,11,0.423,037122410 SIMPLE 5 FLU $6.99,item,item
+EJMzgniUUAAE3UC.jpg,12,0.462,Buy4Get$5GC,item,noise
+EJMzgniUUAAE3UC.jpg,13,0.5,Paper Mfr Coupon $2.00-,discount,noise
+EJMzgniUUAAE3UC.jpg,14,0.538,063024846 TRESEMME $6.19,item,item
+EJMzgniUUAAE3UC.jpg,15,0.577,Buy4Get$5GC,item,noise
+EJMzgniUUAAE3UC.jpg,16,0.615,049002070 D0VE MEN $5.29,item,item
+EJMzgniUUAAE3UC.jpg,17,0.654,Buy4Get$5GC,item,noise
+EJMzgniUUAAE3UC.jpg,18,0.692,Paper Mfr Coupon $4.28-,discount,noise
+EJMzgniUUAAE3UC.jpg,19,0.731,049000942 DOVE $7.69,item,item
+EJMzgniUUAAE3UC.jpg,20,0.769,Buy4Get$5GC,item,noise
+EJMzgniUUAAE3UC.jpg,21,0.808,Paper Mfr Coupon $0.00-,discount,noise
+EJMzgniUUAAE3UC.jpg,22,0.846,SUBTOTAL $19.88,metadata,noise
+EJMzgniUUAAE3UC.jpg,23,0.885,= CA TAX 9.75000 on $26.16 $2.06,metadata,noise
+EJMzgniUUAAE3UC.jpg,24,0.923,TOTAL $21.94,metadata,noise
+EJMzgniUUAAE3UC.jpg,25,0.962,*8854 GIFT CARD PAYMENT $21.94,discount,noise
+EJMzgniUUAAE3UC.jpg,26,1.0,*8854 GIFT CARD BALANCE $78.06,metadata,noise
+R.jpg,0,0.0,SAFEWAY,item,header
+R.jpg,1,0.034,TM,noise,noise
+R.jpg,2,0.069,STORE MGR GINA PRATHER 408-867-0180,item,header
+R.jpg,3,0.103,THANK YOU FOR SHOPPING WITH US!,item,noise
+R.jpg,4,0.138,GROCERY,header,header
+R.jpg,5,0.172,BC WARM DELIGHTS 1.64F,item,item
+R.jpg,6,0.207,Mfr. eCoupon .50-,item,noise
+R.jpg,7,0.241,Mfr. eCoupon .50-,item,noise
+R.jpg,8,0.276,Mfr. eCoupon .75-,item,noise
+R.jpg,9,0.31,RITZ CHIPS 2.50 F,item,item
+R.jpg,10,0.345,RegPrice 3.79 CardSav 1.29,item,noise
+R.jpg,11,0.379,WHT THINS CHP PARM 2.50 F,item,item
+R.jpg,12,0.414,RegPrice 3.79 CardSav 1.29,item,noise
+R.jpg,13,0.448,BBQ SAUCE 99F,item,item
+R.jpg,14,0.483,RegPrice 3.69 CardSav 2.70,item,noise
+R.jpg,15,0.517,2@.99 KC BBQ SCE,item,item
+R.jpg,16,0.552,1.98 F,item,noise
+R.jpg,17,0.586,RegPrice 7.38 CardSav 5.40,item,noise
+R.jpg,18,0.621,2@.99 KC MSTRPC BBQ SCE,item,item
+R.jpg,19,0.655,1.98 F,item,noise
+R.jpg,20,0.69,RegPrice 7.38 CardSav 5.40,item,noise
+R.jpg,21,0.724,4@.99 KC MSTRPC BBQ SCE,item,item
+R.jpg,22,0.759,3.96 F,item,noise
+R.jpg,23,0.793,RegPrice 14.76 CardSav 10.80,item,noise
+R.jpg,24,0.828,2@.99 KC BBQ SAUCE SWT/T,item,item
+R.jpg,25,0.862,1.98F,item,noise
+R.jpg,26,0.897,RegPrice 7.38 CardSav 5.40,item,noise
+R.jpg,27,0.931,2@.99 KC MSTRPC BBQ SAUC,item,item
+R.jpg,28,0.966,1.98 F,item,noise
+R.jpg,29,1.0,RegPrice 7.38 CardSay 5 40,item,noise
+R.jpg,30,0.938,*9477 GIFT CARD PAYMENT $4.11,discount,noise
+R.jpg,31,0.969,*9477 GIFT CARD BALANCE $0.89,metadata,noise
+R.jpg,32,1.0,LINDICATES SAVINGS,item,noise
+target-receipt-img1.jpg,0,0.0,TARGET,header,header
+target-receipt-img1.jpg,1,0.034,EXPECT HORE PAOT LES:,item,header
+target-receipt-img1.jpg,2,0.069,Coon Rapids - 763-323-2931,item,header
+target-receipt-img1.jpg,3,0.103,3300 124th Ave NW,header,header
+target-receipt-img1.jpg,4,0.138,"Coon Rapids, Minnesota 55433-3805",item,header
+target-receipt-img1.jpg,5,0.172,10/09/2020 07:18 PM,item,date
+target-receipt-img1.jpg,6,0.207,GROCERY,header,header
+target-receipt-img1.jpg,7,0.241,071184817 GOG0 SQUEEZ NF $7.49,item,item
+target-receipt-img1.jpg,8,0.276,261050634 NESTLE NF $5.00,item,item
+target-receipt-img1.jpg,9,0.31,2  $2.50 ea,item,qty
+target-receipt-img1.jpg,10,0.345,Regul ar Price $2.99,item,item
+target-receipt-img1.jpg,11,0.379,212141185 CAMPBELLS NF $2.49,item,item
+target-receipt-img1.jpg,12,0.414,212340988 GG RTE RICE NF $1.59,item,item
+target-receipt-img1.jpg,13,0.448,071207472 QUAKER CHEWY NF $1.74,item,item
+target-receipt-img1.jpg,14,0.483,Regular Price $2.49,item,noise
+target-receipt-img1.jpg,15,0.517,261030396 GG NF $1.79,item,item
+target-receipt-img1.jpg,16,0.552,212262925 OLD EL PASO NF $2.99,item,item
+target-receipt-img1.jpg,17,0.586,261030409 GG OIL NF $5.99,item,item
+target-receipt-img1.jpg,18,0.621,212040761 GG CONDIMENT NF $3.78,item,item
+target-receipt-img1.jpg,19,0.655,2 @ $1.89 ea,qty,qty
+target-receipt-img1.jpg,20,0.69,271700135 SPARKLNG ICE TF P $0.95,item,item
+target-receipt-img1.jpg,21,0.724,Regular Price $0.99,item,noise
+target-receipt-img1.jpg,22,0.759,Bottle Deposit Fee $0.05,item,noise
+target-receipt-img1.jpg,23,0.793,284104802 S0 DELICI0US NF $1.52,item,item
+target-receipt-img1.jpg,24,0.828,Regular Price $1.69,item,noise
+target-receipt-img1.jpg,25,0.862,Target Circle10%,item,header
+target-receipt-img1.jpg,26,0.897,284104804 SO DELICIOUS NF $1.52,item,item
+target-receipt-img1.jpg,27,0.931,Regular Price $1.69,item,noise
+target-receipt-img1.jpg,28,0.966,Target Circle10%,item,header
+target-receipt-img1.jpg,29,1.0,212181026 PROGRESSO NF $1.59,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,0,0.0,Give us feedback,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,1,0.02,survey.walmart.com,header,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,2,0.039,Thank you! ID #:7P9W2NFJGWL,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,3,0.059,Walmart,header,header
+8a4d367ababa48843e696bdd4629cfb2.jpg,4,0.078,325-655-4949 Mgr:KATHRINE,item,header
+8a4d367ababa48843e696bdd4629cfb2.jpg,5,0.098,610 W 29TH ST,item,header
+8a4d367ababa48843e696bdd4629cfb2.jpg,6,0.118,SAN ANGELO TX 76903,item,header
+8a4d367ababa48843e696bdd4629cfb2.jpg,7,0.137,STH 01249 0P# TRH 06738,item,header
+8a4d367ababa48843e696bdd4629cfb2.jpg,8,0.157,009046 TE# 46,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,9,0.176,NIGHT HAWK 004170901935 2.78,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,10,0.196,HEALTHCHOICE 007265545445 2.98,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,11,0.216,MANGO YOGURT 0.500,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,12,0.235,005360000026,noise,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,13,0.255,BANAN YOGURT 005360000030 0.50,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,14,0.275,POTATOES,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,15,0.294,089286700194 2. 94,noise,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,16,0.314,SUGAR GRANU 007874237117 4.98,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,17,0.333,AUTODRIVE 20 068113109287 4.47,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,18,0.353,ZZxxXZ,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,19,0.373,AUTODRIVE 20,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,20,0.392,068113109287,noise,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,21,0.412,4.47,noise,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,22,0.431,DUTCH OVEN 001601710695,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,23,0.451,19.94,noise,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,24,0.471,BULK LEMONS 000000004958KF 0.48,item,item
+8a4d367ababa48843e696bdd4629cfb2.jpg,25,0.49,SUBTOTAL 44.04,metadata,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,26,0.51,TAX 1 8.250 % 2.38,metadata,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,27,0.529,TOTAL 46.42,metadata,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,28,0.549,DEBIT TEND 46.42,metadata,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,29,0.569,CHANGE DUE 0.00,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,30,0.588,EFT DEBIT,metadata,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,31,0.608,PAY FROM,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,32,0.627,PRIMARY,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,33,0.647,46.42 TOTAL,metadata,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,34,0.667,PURCHASE,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,35,0.686,US DEBIT,metadata,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,36,0.706,xXXX XXXx xxXx 5870 I 0,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,37,0.725,REF # 026500333070,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,38,0.745,NETWORK ID. 0076 APPR C0DE 541926,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,39,0.765,US DEBIT,metadata,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,40,0.784,hobmensed,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,41,0.804,AID A0000000980840,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,42,0.824,AAC F082669277F87E3B,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,43,0.843,TERMINAL # SC011585,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,44,0.863,ado uoi,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,45,0.882,09/21/20 17:06:36,noise,date
+8a4d367ababa48843e696bdd4629cfb2.jpg,46,0.902,# ITEMS,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,47,0.922,SOLD 10,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,48,0.941,TC# 9100,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,49,0.961,4235 4307 8400 3634,noise,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,50,0.98,Low Prices You Can Irust. Every Day.,item,noise
+8a4d367ababa48843e696bdd4629cfb2.jpg,51,1.0,09/21/20 17:06:44,noise,date
+3215a690-93dd-4de3-b219-3f56860e050f.png,0,0.0,froger,item,header
+3215a690-93dd-4de3-b219-3f56860e050f.png,1,0.022,SCNI ELASTIC 3.99 T,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,2,0.043,12.49 X,item,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,3,0.065,FX MUCINEX FAST MAX,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,4,0.087,PC 2.50 T,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,5,0.109,ZIPLOC CONTAINER,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,6,0.13,SC KPOGER SAVINGS 0.49,item,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,7,0.152,OI SEI 8.99 T,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,8,0.174,.25 te),item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,9,0.196,WT PLFLED 2.49 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,10,0.217,2.59 B,item,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,11,0.239,0.59 1b @ 1.1514,item,weight
+3215a690-93dd-4de3-b219-3f56860e050f.png,12,0.261,WT PEPPERS JALAPENO 0.70 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,13,0.283,3.14 1b @ 0.49 /1b,item,weight
+3215a690-93dd-4de3-b219-3f56860e050f.png,14,0.304,WT BANANAS 1.54 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,15,0.326,BAI5 BEVERAGE PC 1.67 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,16,0.348,SC KROGER SAVINGS 0.82,item,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,17,0.37,BAI5 BEVERAGE PC 1.67 8,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,18,0.391,SC KROGER SAVINGS 0.82,item,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,19,0.413,BNTY SAS TOWELS PC 11.99 T,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,20,0.435,SC KROGER SAVINGS 3.70,item,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,21,0.457,HLAM CHEESE 2.89 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,22,0.478,HLAM CHEESE 2.89 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,23,0.5,BRDV PTD MDJL DATEPC 5.49,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,24,0.522,SC KROGER SAVINGS 0.50,item,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,25,0.543,ALPRS CHOC BAR 4.19,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,26,0.565,ALPRS CHOC BAR 4.19,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,27,0.587,ZIPLOC SNDWCH BAG 4.19,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,28,0.609,DSCH PN RLF PLNTR 16.99 T,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,29,0.63,KRO FD STORAGE 2.99 T,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,30,0.652,TRSME CONDITIONER 3.99 T,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,31,0.674,TRSME SHAMPOO 3.99 T,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,32,0.696,KOSH SALMON PC 10.25 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,33,0.717,SC KROGER SAVINGS 1.14,item,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,34,0.739,MLLR CHEESE 2.89 8,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,35,0.761,TMTE CREAM CHEESE 3.99 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,36,0.783,MLLR CHEESE 3.14 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,37,0.804,PEPPERS RAINBOW 4.99 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,38,0.826,ONIONS SWT YELLOW 1.99 6,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,39,0.848,KRO WATER 2.79 B,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,40,0.87,KROGER PLUS CUSTOMER ********7762,item,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,41,0.891,MP ATLANTA ANGEL NP 140.04-,discount,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,42,0.913,TAX 7.58,metadata,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,43,0.935,** BALANCE 0.000,metadata,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,44,0.957,CASH 0.00,metadata,noise
+3215a690-93dd-4de3-b219-3f56860e050f.png,45,0.978,CHANGE 0.00,item,item
+3215a690-93dd-4de3-b219-3f56860e050f.png,46,1.0,Date of Birth = xx/xx/xx KEYED,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,0,0.0,Store #42,header,header
+8779b6ae-ae16-485b-a799-711126b325ec.png,1,0.021,930 DEKALB PIKE,item,header
+8779b6ae-ae16-485b-a799-711126b325ec.png,2,0.042,"Blue Bel1, PA",item,header
+8779b6ae-ae16-485b-a799-711126b325ec.png,3,0.062,WWW.ALDI.US,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,4,0.083,Your cashier today was Ugonma,metadata,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,5,0.104,2002. Sport Cap 3.99 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,6,0.125,12 pk Diet Cola 2.99 FB,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,7,0.146,Parmesan Cheese 2.99 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,8,0.167,Light Sour Cream 0.99 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,9,0.188,Yel low Ontons 1.49 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,10,0.208,Sweet Potatoes 2.49 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,11,0.229,FreshGround Turkey 2.99 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,12,0.25,Chicken Tender 1o1n 6.73 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,13,0.271,Mixed Nuts14.75 oz 4.99 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,14,0.292,Mixed Nuts14.75oz 4.99 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,15,0.312,Grape Tomatoes 1pt 1.89 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,16,0.333,Red Grapes 5.54 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,17,0.354,2.42 1b x 2.29/1b,item,weight
+8779b6ae-ae16-485b-a799-711126b325ec.png,18,0.375,Strawberries 1.49 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,19,0.396,Baby Carrots 1.25 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,20,0.417,Asian Salad K1t 2.49 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,21,0.438,Sprd Cheese Wedges 1.29 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,22,0.458,Garden Salad 0.89 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,23,0.479,Garden Salad 0.89 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,24,0.5,Baby Carrots 1.25 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,25,0.521,Garlic 0.85 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,26,0.542,SweetandSal tyBars 1.39 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,27,0.562,Turkey Meatbal 1s 4.39 FA,metadata,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,28,0.583,Swt Ch111/Sriracha 4.99 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,29,0.604,Zucchini 1.69 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,30,0.625,Seediss Watermelon 2.99 FA,item,item
+8779b6ae-ae16-485b-a799-711126b325ec.png,31,0.646,VISA 66.66,metadata,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,32,0.667,x6042 PIN,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,33,0.688,09/19/21 15:03 Ref/Seq # 981800,item,date
+8779b6ae-ae16-485b-a799-711126b325ec.png,34,0.708,Auth # 07226C,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,35,0.729,AID A0000000031010,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,36,0.75,TVR 0080001000,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,37,0.771,IAD 06010A03602002,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,38,0.792,TSI E800 ARC 000 EntryMode 05,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,39,0.812,++APPROVED+,metadata,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,40,0.833,SUBTOTAL 66.52,metadata,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,41,0.854,2.29 B-Taxab1e @6.000% 0.14,metadata,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,42,0.875,64.23 A-Taxab1e 90.00% 0.00,metadata,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,43,0.896,AMOUNT DUE 66.66,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,44,0.917,TOT AL $66.66,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,45,0.938,25 ITEMS,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,46,0.958,Credit Card $66.66,metadata,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,47,0.979,9657 460/042/003/029 09/19/21 02:55PM,item,noise
+8779b6ae-ae16-485b-a799-711126b325ec.png,48,1.0,Show your LunchboxLovet,item,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,0,0.0,WHOLESALE,item,header
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,1,0.019,Mountain View #143,item,header
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,2,0.037,1000 N Rengstorff,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,3,0.056,"Mountain View, CA 93043",item,header
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,4,0.074,(650) 988-1841,header,header
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,5,0.093,OK Member 821170501020,item,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,6,0.111,1358822 CHARMIN 22.49 A,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,7,0.13,9462 ORANGES 12.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,8,0.148,83424 HONEYDEW 3.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,9,0.167,8789 GOLDEN PINE 2.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,10,0.185,660212 DOVE16CT 15.99 A,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,11,0.204,949985 ADIDAS SOCK 12.99 A,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,12,0.222,949985 ADIDAS SOCK 12.99 A,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,13,0.241,879104 SOUR DOUGH 6.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,14,0.259,858187 0ATNUT BREAD 5.79,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,15,0.278,31865 BAGELS 5.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,16,0.296,WW… 14368 COUNTRY FR 2 5.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,17,0.315,24587 ORG ROMAINE 3.79,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,18,0.333,31865 BAGELS 5.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,19,0.352,36285 KS WALNUT 3# 10.89,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,20,0.37,568915 ORGANIC CUKE 4.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,21,0.389,1292274 SAFE CATCH 11.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,22,0.407,56366 RASPBERRIES 5.49,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,23,0.426,2 @ 6.99,qty,qty
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,24,0.444,27003 STRAWBERRIES 13.98,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,25,0.463,72904 BLACKBERRIES 5.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,26,0.481,2 @ 4.49,qty,qty
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,27,0.5,57554 BLUEBERRIES 8.98,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,28,0.519,1068080 PASTURE EGGS 7.49,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,29,0.537,990483 2%0RG Y0GURT 4.79,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,30,0.556,40532 PHL CRM CHSE 8.49,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,31,0.574,18600 CLEMENTINES 5.99,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,32,0.593,1100521 RAW HONEY 13.49,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,33,0.611,1018249 ORG ATAULFO 6.49,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,34,0.63,SUBTOTAL 228.02,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,35,0.648,TAX 5.80,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,36,0.667,TOTAL 233.82,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,37,0.685,xXXXXXXXXXXX5881 CHIP Read,item,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,38,0.704,AID: A0000000031010,item,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,39,0.722,Seq# 11913 App#: 01517D,item,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,40,0.741,Visa Resp: APPROVED,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,41,0.759,Trans ID#: 903900011913...,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,42,0.778,Merchant ID: 990143,item,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,43,0.796,APPROVED - Purchase,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,44,0.815,AMOUNT: $233.82,item,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,45,0.833,02/08/2019 12:10 143 11 72 50,noise,date
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,46,0.852,Visa 233.82,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,47,0.87,CHANGE 0.00,item,item
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,48,0.889,A 9.0% TAX 5.80,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,49,0.907,TOTAL TAX 5.80,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,50,0.926,TOTAL NUMBER OF ITEMS SOLD = 28,metadata,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,51,0.944,02/08/2019 12:10 143 11 72 50,noise,date
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,52,0.963,OP#: 50 Name: MARICELA G.,item,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,53,0.981,Thank You !,item,noise
+a4ef80e372e513a8ce17e26b0c2f6da3.jpg,54,1.0,Please Come Asain,item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,0,0.0,publix,item,header
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,1,0.034,Eastgate Shopping Drive 250 Eastgate Drive,item,header
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,2,0.069,"Store Manager: Randy Blankenship Aiken, SC 29803",item,header
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,3,0.103,789-584-1054,noise,header
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,4,0.138,"VAN ALMND BISCOTTI $3,99 t F",item,item
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,5,0.172,"Promotion -2,00 t F",item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,6,0.207,BUMBLE BEE 4 PK,item,item
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,7,0.241,10 2 FOR $3.99 $2.00 t F,item,qty
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,8,0.276,You Saved $ 1.85,item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,9,0.31,PARS BARTLETE,item,item
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,10,0.345,0.48 1b 8 $1.89/1b $0.91 t F,item,item
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,11,0.379,Promotion -3.00 t F,item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,12,0.414,DUKES BAMA WHT SCE $3.69 t F,item,item
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,13,0.448,"Promotion -1,85 t F",item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,14,0.483,M/CALL PIE,item,item
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,15,0.517,1 @ 2 FOR $10.00 $5.00 t F,item,qty
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,16,0.552,You Saved $ 2.55,item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,17,0.586,Transaction Disc $8.74 0 3% -$0.26,item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,18,0.621,Order Tota1 Sales Tax 8.48 0.85,metadata,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,19,0.655,Grand Total 9.33,metadata,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,20,0.69,VISA,metadata,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,21,0.724,Savings Summary Special Price Savings 6.85 0.26,item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,22,0.759,Transaction Discount,item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,23,0.793,****************************************** Savings at Pub lix,discount,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,24,0.828,******************************************* 7.11,discount,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,25,0.862,Your cashier was Hana P,metadata,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,26,0.897,07/08/2025 11:49:00 AM S5957 A435 4453 J054C,item,date
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,27,0.931,"Together, we'l1 get through this. Get the latest updates at",item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,28,0.966,"pub1ix,com/coronavirus",item,noise
+d9c336e0-b7b2-4ae6-b1c3-e36c254dfbd5.png,29,1.0,Pub1ix Super Markets,item,noise
+f10f991d29d72301227ca441cf2f8678.jpg,0,0.0,Sam's,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,1,0.038,CLUB,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,2,0.077,CLUB MANAGER,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,3,0.115,"BRADENTON, FL",item,header
+f10f991d29d72301227ca441cf2f8678.jpg,4,0.154,10/14/20,noise,noise
+f10f991d29d72301227ca441cf2f8678.jpg,5,0.192,13:20 6916 8201 83,noise,noise
+f10f991d29d72301227ca441cf2f8678.jpg,6,0.231,0000063802 WATER 5.98,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,7,0.269,0980237371 SWAI FILLET 12.98,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,8,0.308,0980181678 SALMON 21.98,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,9,0.346,0000467584 PARM REG WD 15.33,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,10,0.385,0980092509 MM BROCCOLI 5.98,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,11,0.423,0980202624 MM YOGURT 3.78,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,12,0.462,0000833861 TOMATO MEDL 5.48,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,13,0.5,0000585680 TRAINING PA,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,14,0.538,2 AT FOR 14.98 29.96,item,qty
+f10f991d29d72301227ca441cf2f8678.jpg,15,0.577,0980022770 MM BATH 18.98,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,16,0.615,0980022772 MM TOWELS 16.98,item,header
+f10f991d29d72301227ca441cf2f8678.jpg,17,0.654,SUBTOTAL 137.43,metadata,noise
+f10f991d29d72301227ca441cf2f8678.jpg,18,0.692,TAX 7 % 4.62,metadata,noise
+f10f991d29d72301227ca441cf2f8678.jpg,19,0.731,TAX 12 0.00,metadata,noise
+f10f991d29d72301227ca441cf2f8678.jpg,20,0.769,TOTAL 142.05,metadata,noise
+f10f991d29d72301227ca441cf2f8678.jpg,21,0.808,MASTERCARD CREDIT TEND 142.05,metadata,noise
+f10f991d29d72301227ca441cf2f8678.jpg,22,0.846,MASTERCARD **** **** **** 6334,item,noise
+f10f991d29d72301227ca441cf2f8678.jpg,23,0.885,CHANGE DUE 0.00,item,noise
+f10f991d29d72301227ca441cf2f8678.jpg,24,0.923,# ITEMS SOLD 11,item,noise
+f10f991d29d72301227ca441cf2f8678.jpg,25,0.962,TC# 7038 4873 5803 7929 9638,item,noise
+f10f991d29d72301227ca441cf2f8678.jpg,26,1.0,10/14/20 13:20,noise,date
+HEB deals 1.jpg,0,0.0,H-E-B,item,header
+HEB deals 1.jpg,1,0.036,1060 9536 0613 1919 4600 415,noise,noise
+HEB deals 1.jpg,2,0.071,BOCA ALL AMERICAN BURGER,item,item
+HEB deals 1.jpg,3,0.107,3 Ea. @ 3.22 9.66,qty,qty
+HEB deals 1.jpg,4,0.143,HEB HALF & HALF 32 OZ-C 2.24,item,item
+HEB deals 1.jpg,5,0.179,WICKLES ORIGINAL CHIPS 3.48,item,item
+HEB deals 1.jpg,6,0.214,HEB GREEN PEAS FW 1.28,item,item
+HEB deals 1.jpg,7,0.25,KRAFT SHRED MILD CHEDDAR 2.38,item,item
+HEB deals 1.jpg,8,0.286,NIVEA MEN SENSITIVE SHAVE,item,item
+HEB deals 1.jpg,9,0.321,4 Ea. @ 1/ 0.97 3.88,qty,qty
+HEB deals 1.jpg,10,0.357,DC NFM SHAVE $1.50 orig 2.47 Ea.,item,noise
+HEB deals 1.jpg,11,0.393,SM ABS MUD MASK PACKETTE,item,item
+HEB deals 1.jpg,12,0.429,8_Ea.@ 1/ 0.50 T 4.00,item,item
+HEB deals 1.jpg,13,0.464,DC SHEA MOISTRE $2.00 orig 2.50 Ea.,item,noise
+HEB deals 1.jpg,14,0.5,HEB ALOHA SWT HAMBURGER B -0.00,item,item
+HEB deals 1.jpg,15,0.536,DC ALOHA BUNS $3.48 orig 3.48 Ea.,item,noise
+HEB deals 1.jpg,16,0.571,DIGITAL COUPON SHOPPER,item,noise
+HEB deals 1.jpg,17,0.607,DC 3 OFF 30 3.00,discount,noise
+HEB deals 1.jpg,18,0.643,*********** Sale Subtotal*** 23.92,metadata,noise
+HEB deals 1.jpg,19,0.679,Sales Tax 0.40,metadata,noise
+HEB deals 1.jpg,20,0.714,************** Total Sale*** 24.32,metadata,noise
+HEB deals 1.jpg,21,0.75,*** DEBIT 24.32,metadata,noise
+HEB deals 1.jpg,22,0.786,ITEMS PURCHASED: 20,item,noise
+HEB deals 1.jpg,23,0.821,OUR BRAND SAVINGS .. $0.74,item,noise
+HEB deals 1.jpg,24,0.857,DIGITAL COUPONS .. $28.48,item,noise
+HEB deals 1.jpg,25,0.893,YOU SAVED,item,noise
+HEB deals 1.jpg,26,0.929,$29.22,noise,noise
+HEB deals 1.jpg,27,0.964,GET UPDATES ON OFFERS & EVENTS!,item,noise
+HEB deals 1.jpg,28,1.0,TEXT 3009 TO 23370 TO J0IN,item,noise
+day-85-receipt.jpg,0,0.0,SAFEWAY,item,header
+day-85-receipt.jpg,1,0.029,TM,noise,noise
+day-85-receipt.jpg,2,0.059,MGR DARREN JOHST 408-267-1200,item,item
+day-85-receipt.jpg,3,0.088,STORE,item,item
+day-85-receipt.jpg,4,0.118,YOU FOR SHOPPING WITH US!,item,item
+day-85-receipt.jpg,5,0.147,THANK,item,item
+day-85-receipt.jpg,6,0.176,REFRIG/FROZEN,item,header
+day-85-receipt.jpg,7,0.206,PARMESAN CHS 1.99 F,item,item
+day-85-receipt.jpg,8,0.235,CardSav 1.50,item,noise
+day-85-receipt.jpg,9,0.265,RegPrice 3.49,item,noise
+day-85-receipt.jpg,10,0.294,MONT JACK 1.99 F,item,item
+day-85-receipt.jpg,11,0.324,RegPrice 3.49 CardSav 1.50,item,noise
+day-85-receipt.jpg,12,0.353,SHRD CHEDDAR 1.99 F,item,item
+day-85-receipt.jpg,13,0.382,ResPrice 3.49 CardSav 1.50,item,item
+day-85-receipt.jpg,14,0.412,KRAFT SHREDDED CH 1.99F,item,item
+day-85-receipt.jpg,15,0.441,RegPrice 3.49 CardSav 1.50,item,noise
+day-85-receipt.jpg,16,0.471,KRAFT 4 CHEESE 1.99 F,item,item
+day-85-receipt.jpg,17,0.5,RegPrice 3.49 CardSav 1.50,item,noise
+day-85-receipt.jpg,18,0.529,Mfr. eCoupon 1.00-,discount,noise
+day-85-receipt.jpg,19,0.559,PRODUCE,item,header
+day-85-receipt.jpg,20,0.588,0.20 1b @ $0.59/1b,item,weight
+day-85-receipt.jpg,21,0.618,WT RED ROMA TOMATOES .12 F,item,item
+day-85-receipt.jpg,22,0.647,RegPrice .40 CardSav .28,item,noise
+day-85-receipt.jpg,23,0.676,MISCELLANEOUS,item,header
+day-85-receipt.jpg,24,0.706,MC 1.00-F,item,noise
+day-85-receipt.jpg,25,0.735,SCANNED COUPON,item,noise
+day-85-receipt.jpg,26,0.765,MC 1.00-F,item,noise
+day-85-receipt.jpg,27,0.794,SCANNED COUPON,item,noise
+day-85-receipt.jpg,28,0.824,MC 1.00-F,item,noise
+day-85-receipt.jpg,29,0.853,SCANNED COUPON,item,noise
+day-85-receipt.jpg,30,0.882,MC 1.00-F,item,noise
+day-85-receipt.jpg,31,0.912,SCANNED COUPON,item,noise
+day-85-receipt.jpg,32,0.941,MC SCANNED COUPON 5.00-,discount,noise
+day-85-receipt.jpg,33,0.971,**** TAX .00 BAL .07,metadata,noise
+day-85-receipt.jpg,34,1.0,CASH .10,metadata,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,0,0.0,UWAJIMAYA,header,header
+056e6b52d4e3efe2045ffb14a04709a0.jpg,1,0.024,UWAJIMAYA BELLEVUE,header,header
+056e6b52d4e3efe2045ffb14a04709a0.jpg,2,0.049,699 120th AVE NE,header,header
+056e6b52d4e3efe2045ffb14a04709a0.jpg,3,0.073,BELLEVUE WA 98005,header,header
+056e6b52d4e3efe2045ffb14a04709a0.jpg,4,0.098,Phone: (425)747-9012,header,header
+056e6b52d4e3efe2045ffb14a04709a0.jpg,5,0.122,WWW.UWAJIMAYA.COM,header,header
+056e6b52d4e3efe2045ffb14a04709a0.jpg,6,0.146,OPEN DAILY: 9:00 AM - 9:00 PM,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,7,0.171,NOW HIRING,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,8,0.195,WWW.UWAJIMAYA.COM/CAREERS,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,9,0.22,GROCERY,header,header
+056e6b52d4e3efe2045ffb14a04709a0.jpg,10,0.244,WANG WIDE STARCH NDL 3.99 F,item,item
+056e6b52d4e3efe2045ffb14a04709a0.jpg,11,0.268,8770335995,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,12,0.293,SUBTOTAL 1 3.99,metadata,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,13,0.317,TOTAL 3.99,metadata,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,14,0.341,DUE 3.99,metadata,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,15,0.366,*VISA* 3.99,metadata,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,16,0.39,EPS Response Desc APPROVED,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,17,0.415,02/05/2026 18:35:31,date,date
+056e6b52d4e3efe2045ffb14a04709a0.jpg,18,0.439,VISA CREDIT Entry Method:Cntctless,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,19,0.463,CARD #: XXXXXXXXXXXX4527,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,20,0.488,PURCHASE - APPROVED,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,21,0.512,AUTH CODE:05983D,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,22,0.537,Mode: Issuer,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,23,0.561,AID: A0000000031010,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,24,0.585,TVR: 0000000000,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,25,0.61,IAD: 1F420132A000000001003027300000,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,26,0.634,0004000000000000000000000000000000,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,27,0.659,TSI: 0000 ARC: 00,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,28,0.683,TC: 0925AA2AA58E9357,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,29,0.707,MID: 000000 TID: 001 RRN: 628580,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,30,0.732,Total: USD$ 3.99,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,31,0.756,CHANGE DUE .00,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,32,0.78,CREDIT/EXCHANGE WITHIN 7 DAYS OF,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,33,0.805,THANK YOU,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,34,0.829,FOR SHOPPING!,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,35,0.854,RESTROOM CODE: 1234,noise,noise
+056e6b52d4e3efe2045ffb14a04709a0.jpg,36,0.878,02/05/2026 62 201 6:35 PM,date,date
+056e6b52d4e3efe2045ffb14a04709a0.jpg,37,0.902,62-301719,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,0,0.0,Bellevue 4th St and 116th Ave - 425-362-1530,header,header
+86f0058f6b371ad1c8afb631446ecf98.jpg,1,0.04,272 116th Ave NE,header,header
+86f0058f6b371ad1c8afb631446ecf98.jpg,2,0.08,"Bellevue, Washington 98004-5213",header,header
+86f0058f6b371ad1c8afb631446ecf98.jpg,3,0.12,02/07/2026 09:45 PM,date,date
+86f0058f6b371ad1c8afb631446ecf98.jpg,4,0.16,GROCERY,header,header
+86f0058f6b371ad1c8afb631446ecf98.jpg,5,0.2,071081094 QUAKER NF $3.99,item,item
+86f0058f6b371ad1c8afb631446ecf98.jpg,6,0.24,213010226 TOPO CHICO T $17.99,item,item
+86f0058f6b371ad1c8afb631446ecf98.jpg,7,0.28,Regular Price $18.99,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,8,0.32,SUBTOTAL $21.98,metadata,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,9,0.36,T = WA TAX 10.30000 on $17.99 $1.85,metadata,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,10,0.4,TOTAL $23.83,metadata,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,11,0.44,*3227 MASTERCARD CHARGE $23.83,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,12,0.48,AID: A0000000041010,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,13,0.52,MASTERCARD,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,14,0.56,AUTH CODE: 05746Z,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,15,0.6,WHEN YOU RETURN ANY ITEM YOUR,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,16,0.64,RETURN CREDIT WILL NOT INCLUDE ANY,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,17,0.68,PROMOTIONAL DISCOUNT OR COUPON,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,18,0.72,APPLIED TO THE ORIGINAL ORDER.,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,19,0.76,YOUR TOTAL SAVINGS THIS TRIP:,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,20,0.8,$1.00,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,21,0.84,REC#2-6038-3275-0162-7327-7,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,22,0.88,Help make your Target Run better.,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,23,0.92,informtarget.com,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,24,0.96,User ID: 7396 1672 5983,noise,noise
+86f0058f6b371ad1c8afb631446ecf98.jpg,25,1.0,Password: 726 723,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,0,0.0,Bellevue 4th St and 116th Ave - 425-362-1530,header,header
+90f859166d4b6d92a96dfc31129ebaa3.jpg,1,0.038,272 116th Ave NE,header,header
+90f859166d4b6d92a96dfc31129ebaa3.jpg,2,0.077,"Bellevue, Washington 98004-5213",header,header
+90f859166d4b6d92a96dfc31129ebaa3.jpg,3,0.115,02/07/2026 09:47 PM,date,date
+90f859166d4b6d92a96dfc31129ebaa3.jpg,4,0.154,GROCERY,header,header
+90f859166d4b6d92a96dfc31129ebaa3.jpg,5,0.192,226100060 FOSTER FARM NF $1.76,item,item
+90f859166d4b6d92a96dfc31129ebaa3.jpg,6,0.231,Regular Price $2.79,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,7,0.269,284111310 GG CHEESE NF $1.99,item,item
+90f859166d4b6d92a96dfc31129ebaa3.jpg,8,0.308,HEALTH AND BEAUTY,header,header
+90f859166d4b6d92a96dfc31129ebaa3.jpg,9,0.346,063007513 Raw Sugar T $4.49,item,item
+90f859166d4b6d92a96dfc31129ebaa3.jpg,10,0.385,Regular Price $8.99,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,11,0.423,SUBTOTAL $8.24,metadata,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,12,0.462,T = WA TAX 10.30000 on $4.44 $0.46,metadata,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,13,0.5,TOTAL $8.70,metadata,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,14,0.538,Reusable Bag Discount $0.05,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,15,0.577,*4527 VISA CHARGE $8.65,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,16,0.615,AID: A0000000031010,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,17,0.654,VISA CREDIT,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,18,0.692,AUTH CODE: 02299D,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,19,0.731,WHEN YOU RETURN ANY ITEM YOUR,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,20,0.769,YOUR TOTAL SAVINGS THIS TRIP:,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,21,0.808,$1.03,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,22,0.846,REC#2-6038-3275-0162-7328-5,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,23,0.885,Help make your Target Run better.,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,24,0.923,informtarget.com,noise,noise
+90f859166d4b6d92a96dfc31129ebaa3.jpg,25,1.0,Please take this survey within 7 days,noise,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,0,0.0,T&T Supermarket US,header,header
+428a18e3dbb2148fea6261de6cd21f58.jpg,1,0.032,Bellevue Store,header,header
+428a18e3dbb2148fea6261de6cd21f58.jpg,2,0.065,12620 SE 41ST PL BELLEVUE WA 98006,header,header
+428a18e3dbb2148fea6261de6cd21f58.jpg,3,0.097,Ph: (425) 818-3260,header,header
+428a18e3dbb2148fea6261de6cd21f58.jpg,4,0.129,02/11/26 7:45:43 PM Icey,date,date
+428a18e3dbb2148fea6261de6cd21f58.jpg,5,0.161,GROCERY,header,header
+428a18e3dbb2148fea6261de6cd21f58.jpg,6,0.194,T&T SHOPPING BAG(REUSABLE BAG) P $0.35 T,noise,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,7,0.226,SURASANG SESAME OIL FP $5.39,item,item
+428a18e3dbb2148fea6261de6cd21f58.jpg,8,0.258,T&T SWEET POTATO VERMICELLI FP $2.19,item,item
+428a18e3dbb2148fea6261de6cd21f58.jpg,9,0.29,KSF ICE BLK TEA DRK FP $1.29 T,item,item
+428a18e3dbb2148fea6261de6cd21f58.jpg,10,0.323,LSK DRIED BEAN CURD STICK FP $5.49,item,item
+428a18e3dbb2148fea6261de6cd21f58.jpg,11,0.355,PRODUCE,header,header
+428a18e3dbb2148fea6261de6cd21f58.jpg,12,0.387,YUKON POTATO,item,item
+428a18e3dbb2148fea6261de6cd21f58.jpg,13,0.419,0.72 lb @ $0.99/lb FP $0.71,weight,weight
+428a18e3dbb2148fea6261de6cd21f58.jpg,14,0.452,DELI,header,header
+428a18e3dbb2148fea6261de6cd21f58.jpg,15,0.484,C.J. PORK&VEG BIG DUMPLINGS FP $12.99,item,item
+428a18e3dbb2148fea6261de6cd21f58.jpg,16,0.516,SUB TOTAL $28.41,metadata,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,17,0.548,State Sales Tax $0.11,metadata,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,18,0.581,Local Sales Tax $0.06,metadata,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,19,0.613,TOTAL $28.58,metadata,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,20,0.645,Visa $28.58,noise,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,21,0.677,Reference# 604222841807,noise,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,22,0.71,Item count: 7,noise,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,23,0.742,02/11/26 7:45:43 PM Icey,date,date
+428a18e3dbb2148fea6261de6cd21f58.jpg,24,0.774,Trans:311717 Terminal:050108013-001003,noise,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,25,0.806,Transaction Receipt,noise,noise
+428a18e3dbb2148fea6261de6cd21f58.jpg,26,0.839,T&T Supermarket US,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,0,0.0,Bellevue 4th St and 116th Ave - 425-362-1530,header,header
+1166ff2a2ee352395d6e41681638d24c.jpg,1,0.04,272 116th Ave NE,header,header
+1166ff2a2ee352395d6e41681638d24c.jpg,2,0.08,"Bellevue, Washington 98004-5213",header,header
+1166ff2a2ee352395d6e41681638d24c.jpg,3,0.12,02/22/2026 09:22 PM,date,date
+1166ff2a2ee352395d6e41681638d24c.jpg,4,0.16,GROCERY,header,header
+1166ff2a2ee352395d6e41681638d24c.jpg,5,0.2,284030225 GG EGGS NF $1.99,item,item
+1166ff2a2ee352395d6e41681638d24c.jpg,6,0.24,284111344 GG CHEESE NF $1.69,item,item
+1166ff2a2ee352395d6e41681638d24c.jpg,7,0.28,KITCHEN,header,header
+1166ff2a2ee352395d6e41681638d24c.jpg,8,0.32,070000543 FIgmint T $7.00,item,item
+1166ff2a2ee352395d6e41681638d24c.jpg,9,0.36,Regular Price $14.00,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,10,0.4,SUBTOTAL $10.68,metadata,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,11,0.44,T = WA TAX 10.30000 on $6.95 $0.72,metadata,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,12,0.48,TOTAL $11.40,metadata,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,13,0.52,Reusable Bag Discount $0.05,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,14,0.56,*4527 VISA CHARGE $11.35,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,15,0.6,AID: A0000000031010,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,16,0.64,VISA CREDIT,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,17,0.68,AUTH CODE: 06779D,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,18,0.72,WHEN YOU RETURN ANY ITEM YOUR,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,19,0.76,REC#2-6053-3275-0163-3551-3,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,20,0.8,Help make your Target Run better.,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,21,0.84,informtarget.com,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,22,0.88,User ID: 7394 6672 5983,noise,noise
+1166ff2a2ee352395d6e41681638d24c.jpg,23,0.92,Password: 664 487,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,0,0.0,H MART,header,header
+a340c71b8fea7502928027fd2aaf1e57.jpg,1,0.031,"7589 170th Ave NE, Redmond, WA, 98052",header,header
+a340c71b8fea7502928027fd2aaf1e57.jpg,2,0.063,206-900-6846,header,header
+a340c71b8fea7502928027fd2aaf1e57.jpg,3,0.094,"Mar 06, 2026 18:47:21",date,date
+a340c71b8fea7502928027fd2aaf1e57.jpg,4,0.125,Maheswari(02),noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,5,0.156,Qty Description U/Price Amount,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,6,0.188,1 DH)BEANCURD STICK 5.49 5.49,item,item
+a340c71b8fea7502928027fd2aaf1e57.jpg,7,0.219,300G,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,8,0.25,Total 1 Items,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,9,0.281,Sub Total: 5.49,metadata,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,10,0.313,TAX1: 0.00,metadata,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,11,0.344,Total Due: 5.49,metadata,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,12,0.375,Visa: 5.49,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,13,0.406,Change Due: 0.00,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,14,0.438,CREDIT CARD,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,15,0.469,SALE,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,16,0.5,.VISA ************4627,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,17,0.531,.ENTRY LEGEND/MODE: CHIP READ/CONTACTLESS,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,18,0.563,.DATE: 03/06/2026 TIME: 18:47:14,date,date
+a340c71b8fea7502928027fd2aaf1e57.jpg,19,0.594,.INVOICE: 8502260026969,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,20,0.625,.REFERENCE: 502260026969,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,21,0.656,.AUTH CODE: 01621D,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,22,0.688,.AMOUNT USD$ 5.49,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,23,0.719,.TOTAL USD$ 5.49,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,24,0.75,APPROVED - THANK YOU,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,25,0.781,.APPLICATION LABEL: VISA CREDIT,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,26,0.813,.AID: A0000000031010,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,27,0.844,.TVR: 0000000000,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,28,0.875,.TSI: 0000,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,29,0.906,NO SIGNATURE REQUIRED,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,30,0.938,Returns must be made within 7 days,noise,noise
+a340c71b8fea7502928027fd2aaf1e57.jpg,31,1.0,Products must be in original condition,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,0,0.0,H MART,header,header
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,1,0.029,"100 108th Ave NE, BELLEVUE, WA, 98004",header,header
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,2,0.057,425-990-8000,header,header
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,3,0.086,"Feb 09, 2026 17:07:30",date,date
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,4,0.114,Jenny(04),noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,5,0.143,Qty Description U/Price Amount,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,6,0.171,1 HS RICE CAKE SLICED 500G 2.49 2.49,item,item
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,7,0.2,1 BGR BANANA FLV. MILK 4.48 4.48,item,item
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,8,0.229,# Promotion Item - Reg. $8.99/PK,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,9,0.257,1 BGR BANANA FLV. MILK 4.48 4.48,item,item
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,10,0.286,# Promotion Item - Reg. $8.99/PK,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,11,0.314,1 HOMERUN BALL CHOCO 1.28 1.28,item,item
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,12,0.343,46G,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,13,0.371,# Promotion Item - Reg. $2.49/EA,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,14,0.4,Total 4 Items,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,15,0.429,Sub Total: 12.73,metadata,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,16,0.457,TAX1: 0.00,metadata,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,17,0.486,Total Due: 12.73,metadata,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,18,0.514,Visa: 12.73,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,19,0.543,Change Due: 0.00,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,20,0.571,CREDIT CARD,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,21,0.6,SALE,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,22,0.629,.VISA ************4527,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,23,0.657,.ENTRY LEGEND/MODE: CHIP READ/CONTACTLESS,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,24,0.686,.DATE: 02/09/2026 TIME: 17:07:22,date,date
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,25,0.714,.INVOICE: 8104260010151,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,26,0.743,.REFERENCE: 104260010151,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,27,0.771,.AUTH CODE: 01847D,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,28,0.8,.AMOUNT USD$ 12.73,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,29,0.829,.TOTAL USD$ 12.73,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,30,0.857,APPROVED - THANK YOU,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,31,0.886,.APPLICATION LABEL: VISA CREDIT,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,32,0.914,.TSI: 0000,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,33,0.943,NO SIGNATURE REQUIRED,noise,noise
+a29421ce3380f5ff3503a9f0394e7ac8.jpg,34,1.0,Returns must be made within 7 days,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,0,0.0,TRADER JOE'S,header,header
+b10c1c45b04de927b82009c79227deef.jpg,1,0.04,"416 116th Ave, NE",header,header
+b10c1c45b04de927b82009c79227deef.jpg,2,0.08,"Bellevue, WA 98004",header,header
+b10c1c45b04de927b82009c79227deef.jpg,3,0.12,Store #0162 - 425-454-9799,header,header
+b10c1c45b04de927b82009c79227deef.jpg,4,0.16,OPEN 9:00AM TO 9:00PM DAILY,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,5,0.2,SALE TRANSACTION,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,6,0.24,PASTA LINGUINE $1.98,item,item
+b10c1c45b04de927b82009c79227deef.jpg,7,0.28,2 @ $0.99,qty,qty
+b10c1c45b04de927b82009c79227deef.jpg,8,0.32,Items in Transaction:2,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,9,0.36,Balance to pay $1.98,metadata,noise
+b10c1c45b04de927b82009c79227deef.jpg,10,0.4,VISA $1.98,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,11,0.44,PAYMENT CARD PURCHASE TRANSACTION,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,12,0.48,CUSTOMER COPY,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,13,0.52,VISA CREDIT ************4527,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,14,0.56,Type: MOBILE Auth Code: 09630A,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,15,0.6,MID: ******64750 TID: ****1149,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,16,0.64,TOTAL PURCHASE $1.98,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,17,0.68,No Cardholder Verification,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,18,0.72,Please retain for your records,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,19,0.76,"T, Rachel",noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,20,0.8,STORE TILL TRANS DATE,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,21,0.84,0162 6 2992 02-28-2026 12:56,date,date
+b10c1c45b04de927b82009c79227deef.jpg,22,0.88,THANK YOU FOR SHOPPING AT,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,23,0.92,TRADER JOE'S,noise,noise
+b10c1c45b04de927b82009c79227deef.jpg,24,1.0,www.traderjoes.com,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,0,0.0,ASIAN FAMILY MARKET,header,header
+d3ea7b5713c52c5039436052bb84d918.jpg,1,0.037,"14515 NE 20th St,",header,header
+d3ea7b5713c52c5039436052bb84d918.jpg,2,0.074,"Bellevue, WA 98007",header,header
+d3ea7b5713c52c5039436052bb84d918.jpg,3,0.111,425-643-8558,header,header
+d3ea7b5713c52c5039436052bb84d918.jpg,4,0.148,WWW.ASIANFAMILYMKT.COM,header,header
+d3ea7b5713c52c5039436052bb84d918.jpg,5,0.185,3/4/2026 17:28:46,date,date
+d3ea7b5713c52c5039436052bb84d918.jpg,6,0.222,STORE#001 REGISTER#010 CASHIER:AIHONG,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,7,0.259,Inv#:00232214 Trs#:234830,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,8,0.296,0007438002030 $2.99 F,item,item
+d3ea7b5713c52c5039436052bb84d918.jpg,9,0.333,CHILI OIL 33ml,item,item
+d3ea7b5713c52c5039436052bb84d918.jpg,10,0.37,0692129433802 $1.39 T1F,item,item
+d3ea7b5713c52c5039436052bb84d918.jpg,11,0.407,ICE TEA 500ml,item,item
+d3ea7b5713c52c5039436052bb84d918.jpg,12,0.444,TOTAL ITEMS 2,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,13,0.481,Net Sales $4.38,metadata,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,14,0.519,Tax 1 [$1.39] $0.14,metadata,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,15,0.556,TOTAL SALES $4.52,metadata,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,16,0.593,SUB TOTAL $4.52,metadata,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,17,0.63,Visa $4.52,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,18,0.667,# ************4527,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,19,0.704,Change $0.00,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,20,0.741,MID: 0850875,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,21,0.778,TID: 8901,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,22,0.815,RRN: 107712,noise,noise
+d3ea7b5713c52c5039436052bb84d918.jpg,23,0.852,SALE,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,0,0.0,H MART,header,header
+d4cc098e482246f96dc175ed895a14d7.jpg,1,0.029,"7589 170th Ave NE, Redmond, WA, 98052",header,header
+d4cc098e482246f96dc175ed895a14d7.jpg,2,0.057,206-900-6846,header,header
+d4cc098e482246f96dc175ed895a14d7.jpg,3,0.086,"Jan 31, 2026 18:27:28",date,date
+d4cc098e482246f96dc175ed895a14d7.jpg,4,0.114,Nazim(02),noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,5,0.143,Qty Description U/Price Amount,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,6,0.171,1 FZ.THIN WRAP KIMCHI DPLNG 7.98 7.98,item,item
+d4cc098e482246f96dc175ed895a14d7.jpg,7,0.2,# Promotion Item - Reg. $15.49/EA,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,8,0.229,1 HS TTEOKBOKKI WHEAT RICE 4.49 4.49,item,item
+d4cc098e482246f96dc175ed895a14d7.jpg,9,0.257,1 WELSH ONION 1.99 1.99,item,item
+d4cc098e482246f96dc175ed895a14d7.jpg,10,0.286,1 HOT POT SOUP BASE-TOMATO 5.99 5.99,item,item
+d4cc098e482246f96dc175ed895a14d7.jpg,11,0.314,1 SS POTATO SUJEBI 3.48 3.48,item,item
+d4cc098e482246f96dc175ed895a14d7.jpg,12,0.343,# Promotion Item - Reg. $5.99/EA,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,13,0.371,1 BEEF SHORT PLATE SHABU 15.55 15.55,item,item
+d4cc098e482246f96dc175ed895a14d7.jpg,14,0.4,1 KEWPIE MAYONNAISE 4.98 4.98,item,item
+d4cc098e482246f96dc175ed895a14d7.jpg,15,0.429,# Promotion Item - Reg. $5.99/EA,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,16,0.457,1 LITTLE NAPA 2.79 2.79,item,item
+d4cc098e482246f96dc175ed895a14d7.jpg,17,0.486,Total 8 Items,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,18,0.514,Sub Total: 47.25,metadata,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,19,0.543,TAX1: 0.00,metadata,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,20,0.571,Total Due: 47.25,metadata,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,21,0.6,Visa: 47.25,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,22,0.629,Change Due: 0.00,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,23,0.657,CREDIT CARD,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,24,0.686,SALE,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,25,0.714,.VISA ************4627,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,26,0.743,.ENTRY LEGEND/MODE: CHIP READ/CONTACTLESS,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,27,0.771,.DATE: 01/31/2026 TIME: 18:27:21,date,date
+d4cc098e482246f96dc175ed895a14d7.jpg,28,0.8,.INVOICE: 8502260012779,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,29,0.829,.REFERENCE: 602260012779,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,30,0.857,.AUTH CODE: 01831D,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,31,0.886,.AMOUNT USD$ 47.26,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,32,0.914,.TOTAL USD$ 47.25,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,33,0.943,APPROVED - THANK YOU,noise,noise
+d4cc098e482246f96dc175ed895a14d7.jpg,34,1.0,.APPLICATION LABEL: VISA CREDIT,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,0,0.0,Bellevue 4th St and 116th Ave - 425-362-1530,header,header
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,1,0.038,272 116th Ave NE,header,header
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,2,0.077,"Bellevue, Washington 98004-5213",header,header
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,3,0.115,01/23/2026 09:22 PM,date,date
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,4,0.154,GROCERY,header,header
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,5,0.192,284060038 LACTAID 64OZ NF $4.59,item,item
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,6,0.231,226100060 FOSTER FARM NF $2.42,item,item
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,7,0.269,Regular Price $2.79,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,8,0.308,LAUNDRY CLEANING AND CLOSET,header,header
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,9,0.346,253020081 up&up T $1.99,item,item
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,10,0.385,Regular Price $3.99,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,11,0.423,SUBTOTAL $9.00,metadata,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,12,0.462,T = WA TAX 10.30000 on $1.94 $0.20,metadata,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,13,0.5,TOTAL $9.20,metadata,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,14,0.538,Reusable Bag Discount $0.05,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,15,0.577,*4527 VISA CHARGE $9.15,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,16,0.615,AID: A0000000031010,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,17,0.654,VISA CREDIT,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,18,0.692,AUTH CODE: 09844D,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,19,0.731,WHEN YOU RETURN ANY ITEM YOUR,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,20,0.769,YOUR TOTAL SAVINGS THIS TRIP:,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,21,0.808,$0.37,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,22,0.846,REC#2-6023-3275-0163-6757-6,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,23,0.885,Help make your Target Run better.,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,24,0.923,informtarget.com,noise,noise
+f116e6f7d5d1a1dddfdef4406c49ec9a.jpg,25,1.0,Please take this survey within 7 days,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,0,0.0,Bellevue 4th St and 116th Ave - 425-362-1530,header,header
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,1,0.042,272 116th Ave NE,header,header
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,2,0.083,"Bellevue, Washington 98004-5213",header,header
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,3,0.125,02/27/2026 09:32 AM,date,date
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,4,0.167,GROCERY,header,header
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,5,0.208,284043755 TROPICANA NF $4.69,item,item
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,6,0.25,HEALTH AND BEAUTY,header,header
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,7,0.292,049099218 Colgate T $4.24,item,item
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,8,0.333,Regular Price $8.49,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,9,0.375,SUBTOTAL $8.93,metadata,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,10,0.417,T = WA TAX 10.30000 on $4.19 $0.43,metadata,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,11,0.458,TOTAL $9.36,metadata,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,12,0.5,Reusable Bag Discount $0.05,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,13,0.542,*4527 VISA CHARGE $9.31,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,14,0.583,AID: A0000000031010,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,15,0.625,VISA CREDIT,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,16,0.667,AUTH CODE: 06557D,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,17,0.708,WHEN YOU RETURN ANY ITEM YOUR,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,18,0.75,REC#2-6058-3275-0160-5808-0,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,19,0.792,Help make your Target Run better.,noise,noise
+1a8b602af7a1de4c4dcbd35cd6d87326.jpg,20,0.833,informtarget.com,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,0,0.0,Bellevue 4th St and 116th Ave - 425-362-1530,header,header
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,1,0.04,272 116th Ave NE,header,header
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,2,0.08,"Bellevue, Washington 98004-5213",header,header
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,3,0.12,02/13/2026 02:14 PM,date,date
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,4,0.16,GROCERY,header,header
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,5,0.2,284050252 GG CREAM NF $2.99,item,item
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,6,0.24,261050447 GHIRARDELLI NF $6.65,item,item
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,7,0.28,Regular Price $7.39,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,8,0.32,SUBTOTAL $9.64,metadata,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,9,0.36,NO TAX $0.00,metadata,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,10,0.4,TOTAL $9.64,metadata,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,11,0.44,Reusable Bag Discount $0.05,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,12,0.48,*4527 VISA CHARGE $9.59,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,13,0.52,AID: A0000000031010,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,14,0.56,VISA CREDIT,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,15,0.6,AUTH CODE: 02471D,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,16,0.64,WHEN YOU RETURN ANY ITEM YOUR,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,17,0.68,YOUR TOTAL SAVINGS THIS TRIP:,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,18,0.72,$0.74,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,19,0.76,REC#2-6044-3275-0160-2191-4,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,20,0.8,Help make your Target Run better.,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,21,0.84,informtarget.com,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,22,0.88,User ID: 7395 5672 5983,noise,noise
+5fbd37e22b690194ecb0bde2cd16a8f7.jpg,23,0.92,Password: 978 086,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,0,0.0,UWAJIMAYA,header,header
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,1,0.024,UWAJIMAYA BELLEVUE,header,header
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,2,0.049,699 120th AVE NE,header,header
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,3,0.073,BELLEVUE WA 98005,header,header
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,4,0.098,Phone: (425)747-9012,header,header
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,5,0.122,WWW.UWAJIMAYA.COM,header,header
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,6,0.146,OPEN DAILY: 9:00 AM - 9:00 PM,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,7,0.171,NOW HIRING,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,8,0.195,WWW.UWAJIMAYA.COM/CAREERS,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,9,0.22,PRODUCE,header,header
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,10,0.244,ORG GINGER .17 F,item,item
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,11,0.268,94612 0.04lb @ 4.29 /lb,weight,weight
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,12,0.293,ORG GREEN ONIONS 2.49 F,item,item
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,13,0.317,94068,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,14,0.341,MEAT,header,header
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,15,0.366,GROUND PORK 2.06 F,item,item
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,16,0.39,25113000000,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,17,0.415,SUBTOTAL 3 4.72,metadata,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,18,0.439,TOTAL 4.72,metadata,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,19,0.463,DUE 4.72,metadata,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,20,0.488,*VISA* 4.72,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,21,0.512,EPS Response Desc APPROVED,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,22,0.537,02/10/2026 13:35:02,date,date
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,23,0.561,VISA CREDIT Entry Method:Cntctless,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,24,0.585,CARD #: XXXXXXXXXXXX5366,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,25,0.61,PURCHASE - APPROVED,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,26,0.634,AUTH CODE:02690D,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,27,0.659,Mode: Issuer,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,28,0.683,AID: A0000000031010,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,29,0.707,TVR: 0000000000,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,30,0.732,IAD: 1F420131A000000001003027300000,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,31,0.756,TSI: 0000 ARC: 00,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,32,0.78,TC: 95305A22C5D5CD43,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,33,0.805,MID: 000000 TID: 001 RRN: 643281,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,34,0.829,Total: USD$ 4.72,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,35,0.854,CHANGE DUE .00,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,36,0.878,THANK YOU,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,37,0.902,FOR SHOPPING!,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,38,0.927,RESTROOM CODE: 1234,noise,noise
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,39,0.951,02/10/2026 64 201 1:35 PM,date,date
+12d4fb5658c7a04ba71cb7b6b71804be.jpg,40,1.0,64-343680,noise,noise

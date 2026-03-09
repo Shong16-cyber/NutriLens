@@ -1,0 +1,473 @@
+[
+  {
+    "receipt_id": 1,
+    "date": "2026-01-28",
+    "day_index": 0,
+    "store": "Target",
+    "total_price": "",
+    "trip_type": "real_receipt",
+    "n_items": 1,
+    "items": [
+      {
+        "food_name": "Loo",
+        "original_name": "LOO",
+        "category": "Other",
+        "portion_g": 118.0,
+        "calories": 103.25,
+        "protein_g": 1.66,
+        "carbs_g": 9.17,
+        "fat_g": 6.67,
+        "fiber_g": 1.68,
+        "price": null
+      }
+    ],
+    "totals": {
+      "calories": 103.25,
+      "protein_g": 1.66,
+      "carbs_g": 9.17,
+      "fat_g": 6.67,
+      "fiber_g": 1.68
+    }
+  },
+  {
+    "receipt_id": 2,
+    "date": "2026-01-31",
+    "day_index": 3,
+    "store": "",
+    "total_price": 47.26,
+    "trip_type": "real_receipt",
+    "n_items": 1,
+    "items": [
+      {
+        "food_name": "Kewpie Mayonnaise",
+        "original_name": "KEWPIE MAYCNNAISE 4.98",
+        "category": "Other",
+        "portion_g": 500.0,
+        "calories": 3430.0,
+        "protein_g": 12.5,
+        "carbs_g": 3.0,
+        "fat_g": 373.0,
+        "fiber_g": 0,
+        "price": 4.98
+      }
+    ],
+    "totals": {
+      "calories": 3430.0,
+      "protein_g": 12.5,
+      "carbs_g": 3.0,
+      "fat_g": 373.0,
+      "fiber_g": 0
+    }
+  },
+  {
+    "receipt_id": 3,
+    "date": "2026-02-01",
+    "day_index": 4,
+    "store": "",
+    "total_price": "",
+    "trip_type": "real_receipt",
+    "n_items": 1,
+    "items": [
+      {
+        "food_name": "Within Days Of",
+        "original_name": "WITHIN DAYS OF",
+        "category": "Other",
+        "portion_g": 150.25,
+        "calories": 808.36,
+        "protein_g": 11.55,
+        "carbs_g": 80.84,
+        "fat_g": 51.99,
+        "fiber_g": 5.78,
+        "price": null
+      }
+    ],
+    "totals": {
+      "calories": 808.36,
+      "protein_g": 11.55,
+      "carbs_g": 80.84,
+      "fat_g": 51.99,
+      "fiber_g": 5.78
+    }
+  },
+  {
+    "receipt_id": 4,
+    "date": "2026-02-05",
+    "day_index": 8,
+    "store": "",
+    "total_price": 9.36,
+    "trip_type": "real_receipt",
+    "n_items": 1,
+    "items": [
+      {
+        "food_name": "When",
+        "original_name": "WHEN",
+        "category": "Other",
+        "portion_g": 40.0,
+        "calories": 202.4,
+        "protein_g": 2.4,
+        "carbs_g": 20.96,
+        "fat_g": 11.6,
+        "fiber_g": 2.68,
+        "price": null
+      }
+    ],
+    "totals": {
+      "calories": 202.4,
+      "protein_g": 2.4,
+      "carbs_g": 20.96,
+      "fat_g": 11.6,
+      "fiber_g": 2.68
+    }
+  },
+  {
+    "receipt_id": 5,
+    "date": "2026-02-07",
+    "day_index": 10,
+    "store": "Target",
+    "total_price": 23.83,
+    "trip_type": "real_receipt",
+    "n_items": 1,
+    "items": [
+      {
+        "food_name": "T0p0 Chico 071081094 Quaker",
+        "original_name": "T0P0 CHICO 071081094 QUAKER",
+        "category": "Other",
+        "portion_g": 399.73,
+        "calories": 1590.92,
+        "protein_g": 17.55,
+        "carbs_g": 341.81,
+        "fat_g": 20.47,
+        "fiber_g": 9.99,
+        "price": 3.99
+      }
+    ],
+    "totals": {
+      "calories": 1590.92,
+      "protein_g": 17.55,
+      "carbs_g": 341.81,
+      "fat_g": 20.47,
+      "fiber_g": 9.99
+    }
+  },
+  {
+    "receipt_id": 6,
+    "date": "2026-02-09",
+    "day_index": 12,
+    "store": "Target",
+    "total_price": 12.73,
+    "trip_type": "real_receipt",
+    "n_items": 3,
+    "items": [
+      {
+        "food_name": "Hs Rice Cake Sliced 5O0G 2.49",
+        "original_name": "HS RICE CAKE SLICED 5O0G 2.49",
+        "category": "Grains",
+        "portion_g": 799.46,
+        "calories": 1071.27,
+        "protein_g": 156.69,
+        "carbs_g": 7.43,
+        "fat_g": 46.37,
+        "fiber_g": 0,
+        "price": 2.49
+      },
+      {
+        "food_name": "Bsr Banana Flv. Milk 4.48",
+        "original_name": "BSR BANANA FLV. MILK 4.48",
+        "category": "Produce",
+        "portion_g": 997.9,
+        "calories": 1047.8,
+        "protein_g": 27.54,
+        "carbs_g": 196.99,
+        "fat_g": 16.96,
+        "fiber_g": 0,
+        "price": 4.48
+      },
+      {
+        "food_name": "Bgr Banana Flv. Milk 4.48",
+        "original_name": "BGR BANANA FLV. MILK 4.48",
+        "category": "Produce",
+        "portion_g": 997.9,
+        "calories": 1047.8,
+        "protein_g": 27.54,
+        "carbs_g": 196.99,
+        "fat_g": 16.96,
+        "fiber_g": 0,
+        "price": 4.48
+      }
+    ],
+    "totals": {
+      "calories": 3166.87,
+      "protein_g": 211.76999999999998,
+      "carbs_g": 401.41,
+      "fat_g": 80.28999999999999,
+      "fiber_g": 0
+    }
+  },
+  {
+    "receipt_id": 7,
+    "date": "2026-02-09",
+    "day_index": 12,
+    "store": "Target",
+    "total_price": 28.58,
+    "trip_type": "real_receipt",
+    "n_items": 6,
+    "items": [
+      {
+        "food_name": "Icey",
+        "original_name": "Icey",
+        "category": "Other",
+        "portion_g": 71.0,
+        "calories": 271.93,
+        "protein_g": 4.83,
+        "carbs_g": 48.99,
+        "fat_g": 6.04,
+        "fiber_g": 0,
+        "price": null
+      },
+      {
+        "food_name": "Surasang Sesame Oil Fp",
+        "original_name": "SURASANG SESAME OIL FP",
+        "category": "Other",
+        "portion_g": 751.26,
+        "calories": 2944.95,
+        "protein_g": 57.1,
+        "carbs_g": 612.28,
+        "fat_g": 28.55,
+        "fiber_g": 40.57,
+        "price": 5.39
+      },
+      {
+        "food_name": "T&t Sweet Potato Vermicelli Fp",
+        "original_name": "T&T SWEET POTATO VERMICELLI FP",
+        "category": "Produce",
+        "portion_g": 997.9,
+        "calories": 3582.47,
+        "protein_g": 108.17,
+        "carbs_g": 758.61,
+        "fat_g": 12.67,
+        "fiber_g": 15.97,
+        "price": 2.19
+      },
+      {
+        "food_name": "Ksf Ice Black Tea Drk Fp",
+        "original_name": "KSF ICE BLK TEA DRK FP",
+        "category": "Beverages",
+        "portion_g": 56.7,
+        "calories": 85.62,
+        "protein_g": 2.63,
+        "carbs_g": 13.83,
+        "fat_g": 2.18,
+        "fiber_g": 1.93,
+        "price": 1.29
+      },
+      {
+        "food_name": "Yukon Potato",
+        "original_name": "YUKON POTATO",
+        "category": "Produce",
+        "portion_g": 326.59,
+        "calories": 1639.46,
+        "protein_g": 14.89,
+        "carbs_g": 211.5,
+        "fat_g": 85.37,
+        "fiber_g": 10.45,
+        "price": null
+      },
+      {
+        "food_name": "C.j. Pork&veg Big Dumplings Fp",
+        "original_name": "C.J. PORK&VEG BIG DUMPLINGS FP",
+        "category": "Other",
+        "portion_g": 201.28,
+        "calories": 96.62,
+        "protein_g": 4.03,
+        "carbs_g": 15.5,
+        "fat_g": 1.81,
+        "fiber_g": 0,
+        "price": 12.99
+      }
+    ],
+    "totals": {
+      "calories": 8621.050000000001,
+      "protein_g": 191.65,
+      "carbs_g": 1660.71,
+      "fat_g": 136.62,
+      "fiber_g": 68.92
+    }
+  },
+  {
+    "receipt_id": 8,
+    "date": "2026-02-13",
+    "day_index": 16,
+    "store": "Target",
+    "total_price": 8.7,
+    "trip_type": "real_receipt",
+    "n_items": 0,
+    "items": [],
+    "totals": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0
+    }
+  },
+  {
+    "receipt_id": 9,
+    "date": "2026-02-17",
+    "day_index": 20,
+    "store": "",
+    "total_price": "",
+    "trip_type": "real_receipt",
+    "n_items": 0,
+    "items": [],
+    "totals": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0
+    }
+  },
+  {
+    "receipt_id": 10,
+    "date": "2026-02-21",
+    "day_index": 24,
+    "store": "Trader Joe's",
+    "total_price": "",
+    "trip_type": "real_receipt",
+    "n_items": 0,
+    "items": [],
+    "totals": {
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0
+    }
+  },
+  {
+    "receipt_id": 11,
+    "date": "2026-02-22",
+    "day_index": 25,
+    "store": "Target",
+    "total_price": 0.72,
+    "trip_type": "real_receipt",
+    "n_items": 3,
+    "items": [
+      {
+        "food_name": "Good & Gather Eggs",
+        "original_name": "GG EGGS",
+        "category": "Dairy",
+        "portion_g": 510.29,
+        "calories": 285.76,
+        "protein_g": 3.21,
+        "carbs_g": 66.54,
+        "fat_g": 1.68,
+        "fiber_g": 3.06,
+        "price": null
+      },
+      {
+        "food_name": "Good & Gather Cheese",
+        "original_name": "GG CHEESE",
+        "category": "Dairy",
+        "portion_g": 201.28,
+        "calories": 752.79,
+        "protein_g": 14.33,
+        "carbs_g": 96.29,
+        "fat_g": 34.46,
+        "fiber_g": 1.41,
+        "price": 1.99
+      },
+      {
+        "food_name": "When",
+        "original_name": "WHEN",
+        "category": "Other",
+        "portion_g": 40.0,
+        "calories": 202.4,
+        "protein_g": 2.4,
+        "carbs_g": 20.96,
+        "fat_g": 11.6,
+        "fiber_g": 2.68,
+        "price": null
+      }
+    ],
+    "totals": {
+      "calories": 1240.95,
+      "protein_g": 19.939999999999998,
+      "carbs_g": 183.79000000000002,
+      "fat_g": 47.74,
+      "fiber_g": 7.15
+    }
+  },
+  {
+    "receipt_id": 12,
+    "date": "2026-02-25",
+    "day_index": 28,
+    "store": "",
+    "total_price": "",
+    "trip_type": "real_receipt",
+    "n_items": 1,
+    "items": [
+      {
+        "food_name": "Regular",
+        "original_name": "Regular",
+        "category": "Snacks",
+        "portion_g": 460.0,
+        "calories": 1743.4,
+        "protein_g": 31.74,
+        "carbs_g": 364.78,
+        "fat_g": 23.78,
+        "fiber_g": 9.2,
+        "price": null
+      }
+    ],
+    "totals": {
+      "calories": 1743.4,
+      "protein_g": 31.74,
+      "carbs_g": 364.78,
+      "fat_g": 23.78,
+      "fiber_g": 9.2
+    }
+  },
+  {
+    "receipt_id": 13,
+    "date": "2026-03-04",
+    "day_index": 35,
+    "store": "",
+    "total_price": 4.52,
+    "trip_type": "real_receipt",
+    "n_items": 2,
+    "items": [
+      {
+        "food_name": "Chile Oil 33m1",
+        "original_name": "CHILE OIL 33m1",
+        "category": "Other",
+        "portion_g": 751.26,
+        "calories": 2434.09,
+        "protein_g": 79.48,
+        "carbs_g": 524.83,
+        "fat_g": 43.65,
+        "fiber_g": 215.61,
+        "price": null
+      },
+      {
+        "food_name": "Ice Tea 500m I",
+        "original_name": "ICE TEA 500mI",
+        "category": "Beverages",
+        "portion_g": 56.7,
+        "calories": 7.94,
+        "protein_g": 1.81,
+        "carbs_g": 0.06,
+        "fat_g": 0,
+        "fiber_g": 0,
+        "price": null
+      }
+    ],
+    "totals": {
+      "calories": 2442.03,
+      "protein_g": 81.29,
+      "carbs_g": 524.89,
+      "fat_g": 43.65,
+      "fiber_g": 215.61
+    }
+  }
+]
