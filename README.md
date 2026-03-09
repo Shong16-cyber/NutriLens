@@ -11,12 +11,6 @@ This project turns photos of grocery receipts into actionable nutrition insights
 Receipt Image → OCR → Item Extraction → Nutrition Lookup → Signal Processing → Report
 ```
 
-### Signal Processing Techniques (TECHIN 513)
-
-1. **Moving Average Filter (Convolution)** — Smooths sparse purchase data into estimated daily intake using discrete-time LTI convolution: `y[n] = x[n] * h[n]`
-2. **Threshold Detection (Level-Crossing)** — Compares smoothed signals against DRI (Dietary Reference Intakes) to identify nutritional deficiencies
-3. **FFT (Discrete Fourier Transform)** — Analyzes periodicity in purchasing behavior to detect weekly shopping patterns
-
 ## Features
 
 - **Multi-store receipt OCR** via Google Vision API with PaddleOCR fallback
