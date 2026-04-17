@@ -11,6 +11,10 @@ This project turns photos of grocery receipts into actionable nutrition insights
 Receipt Image → OCR → Item Extraction → Nutrition Lookup → Signal Processing → Report
 ```
 
+## Presentation Poster
+
+![NutriLens Poster](assets/poster.png)
+
 ## Features
 
 - **Multi-store receipt OCR** via Google Vision API with PaddleOCR fallback
